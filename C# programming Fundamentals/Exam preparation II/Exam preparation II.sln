@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber.csproj", "{ADD5BAF9-EC61-4398-9F65-5505C5202984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinAndMaxValue", "..\MinAndMaxValue\MinAndMaxValue.csproj", "{F4B3D26C-8015-4093-BDF3-0FA78246C85E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD5BAF9-EC61-4398-9F65-5505C5202984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD5BAF9-EC61-4398-9F65-5505C5202984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD5BAF9-EC61-4398-9F65-5505C5202984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD5BAF9-EC61-4398-9F65-5505C5202984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B3D26C-8015-4093-BDF3-0FA78246C85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B3D26C-8015-4093-BDF3-0FA78246C85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B3D26C-8015-4093-BDF3-0FA78246C85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B3D26C-8015-4093-BDF3-0FA78246C85E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C53CAD2E-B3D8-448C-AA83-475916434738}
+	EndGlobalSection
+EndGlobal

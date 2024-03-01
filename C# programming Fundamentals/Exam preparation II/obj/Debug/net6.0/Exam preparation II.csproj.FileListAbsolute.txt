@@ -1,0 +1,14 @@
+C:\Users\Atanas Work\source\repos\Exam preparation II\bin\Debug\net6.0\Exam preparation II.exe
+C:\Users\Atanas Work\source\repos\Exam preparation II\bin\Debug\net6.0\Exam preparation II.deps.json
+C:\Users\Atanas Work\source\repos\Exam preparation II\bin\Debug\net6.0\Exam preparation II.runtimeconfig.json
+C:\Users\Atanas Work\source\repos\Exam preparation II\bin\Debug\net6.0\Exam preparation II.dll
+C:\Users\Atanas Work\source\repos\Exam preparation II\bin\Debug\net6.0\Exam preparation II.pdb
+C:\Users\Atanas Work\source\repos\Exam preparation II\obj\Debug\net6.0\Exam preparation II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas Work\source\repos\Exam preparation II\obj\Debug\net6.0\Exam preparation II.AssemblyInfoInputs.cache
+C:\Users\Atanas Work\source\repos\Exam preparation II\obj\Debug\net6.0\Exam preparation II.AssemblyInfo.cs
+C:\Users\Atanas Work\source\repos\Exam preparation II\obj\Debug\net6.0\Exam preparation II.csproj.CoreCompileInputs.cache
+C:\Users\Atanas Work\source\repos\Exam preparation II\obj\Debug\net6.0\Exam preparation II.dll
+C:\Users\Atanas Work\source\repos\Exam preparation II\obj\Debug\net6.0\refint\Exam preparation II.dll
+C:\Users\Atanas Work\source\repos\Exam preparation II\obj\Debug\net6.0\Exam preparation II.pdb
+C:\Users\Atanas Work\source\repos\Exam preparation II\obj\Debug\net6.0\Exam preparation II.genruntimeconfig.cache
+C:\Users\Atanas Work\source\repos\Exam preparation II\obj\Debug\net6.0\ref\Exam preparation II.dll
