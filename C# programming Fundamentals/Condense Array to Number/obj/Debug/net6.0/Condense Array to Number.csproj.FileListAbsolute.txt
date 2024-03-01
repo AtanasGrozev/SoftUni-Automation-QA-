@@ -1,0 +1,14 @@
+C:\Users\Atanas Work\source\repos\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas Work\source\repos\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\Atanas Work\source\repos\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.AssemblyInfo.cs
+C:\Users\Atanas Work\source\repos\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\Atanas Work\source\repos\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.exe
+C:\Users\Atanas Work\source\repos\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.deps.json
+C:\Users\Atanas Work\source\repos\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.runtimeconfig.json
+C:\Users\Atanas Work\source\repos\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.dll
+C:\Users\Atanas Work\source\repos\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.pdb
+C:\Users\Atanas Work\source\repos\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.dll
+C:\Users\Atanas Work\source\repos\Condense Array to Number\obj\Debug\net6.0\refint\Condense Array to Number.dll
+C:\Users\Atanas Work\source\repos\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.pdb
+C:\Users\Atanas Work\source\repos\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.genruntimeconfig.cache
+C:\Users\Atanas Work\source\repos\Condense Array to Number\obj\Debug\net6.0\ref\Condense Array to Number.dll
