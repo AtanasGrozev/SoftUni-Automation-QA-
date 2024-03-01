@@ -1,0 +1,14 @@
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\obj\Debug\net6.0\SmartHomeFromChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\obj\Debug\net6.0\SmartHomeFromChatGPT.AssemblyInfoInputs.cache
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\obj\Debug\net6.0\SmartHomeFromChatGPT.AssemblyInfo.cs
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\obj\Debug\net6.0\SmartHomeFromChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\bin\Debug\net6.0\SmartHomeFromChatGPT.exe
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\bin\Debug\net6.0\SmartHomeFromChatGPT.deps.json
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\bin\Debug\net6.0\SmartHomeFromChatGPT.runtimeconfig.json
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\bin\Debug\net6.0\SmartHomeFromChatGPT.dll
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\bin\Debug\net6.0\SmartHomeFromChatGPT.pdb
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\obj\Debug\net6.0\SmartHomeFromChatGPT.dll
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\obj\Debug\net6.0\refint\SmartHomeFromChatGPT.dll
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\obj\Debug\net6.0\SmartHomeFromChatGPT.pdb
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\obj\Debug\net6.0\SmartHomeFromChatGPT.genruntimeconfig.cache
+C:\Users\Atanas Work\source\repos\DictioanariesLabdaLINQ\SmartHomeFromChatGPT\obj\Debug\net6.0\ref\SmartHomeFromChatGPT.dll
