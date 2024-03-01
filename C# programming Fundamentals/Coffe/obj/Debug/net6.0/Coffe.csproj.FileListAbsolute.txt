@@ -1,0 +1,14 @@
+C:\Users\Atanas Work\source\repos\Coffe\bin\Debug\net6.0\Coffe.exe
+C:\Users\Atanas Work\source\repos\Coffe\bin\Debug\net6.0\Coffe.deps.json
+C:\Users\Atanas Work\source\repos\Coffe\bin\Debug\net6.0\Coffe.runtimeconfig.json
+C:\Users\Atanas Work\source\repos\Coffe\bin\Debug\net6.0\Coffe.dll
+C:\Users\Atanas Work\source\repos\Coffe\bin\Debug\net6.0\Coffe.pdb
+C:\Users\Atanas Work\source\repos\Coffe\obj\Debug\net6.0\Coffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas Work\source\repos\Coffe\obj\Debug\net6.0\Coffe.AssemblyInfoInputs.cache
+C:\Users\Atanas Work\source\repos\Coffe\obj\Debug\net6.0\Coffe.AssemblyInfo.cs
+C:\Users\Atanas Work\source\repos\Coffe\obj\Debug\net6.0\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\Atanas Work\source\repos\Coffe\obj\Debug\net6.0\Coffe.dll
+C:\Users\Atanas Work\source\repos\Coffe\obj\Debug\net6.0\refint\Coffe.dll
+C:\Users\Atanas Work\source\repos\Coffe\obj\Debug\net6.0\Coffe.pdb
+C:\Users\Atanas Work\source\repos\Coffe\obj\Debug\net6.0\Coffe.genruntimeconfig.cache
+C:\Users\Atanas Work\source\repos\Coffe\obj\Debug\net6.0\ref\Coffe.dll
