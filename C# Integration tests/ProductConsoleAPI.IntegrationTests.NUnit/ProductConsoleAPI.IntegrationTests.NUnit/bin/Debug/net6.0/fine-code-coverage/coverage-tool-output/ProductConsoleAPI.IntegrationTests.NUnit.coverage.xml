@@ -1,0 +1,1870 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.6183" branch-rate="0.3461" version="1.9" timestamp="1708619609" lines-covered="316" lines-valid="511" branches-covered="27" branches-valid="78">
+  <sources>
+    <source>C:\Users\Atanas Work\</source>
+  </sources>
+  <packages>
+    <package name="ProductConsoleAPI" line-rate="0.35109999999999997" branch-rate="0.3243" complexity="96">
+      <classes>
+        <class name="ProductConsoleAPI.Program/&lt;Main&gt;d__0" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="False" />
+                <line number="12" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="26" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+                <line number="34" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="False" />
+            <line number="12" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="34" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Data.Models.Product" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Data\Models\Product.cs" line-rate="1" branch-rate="1" complexity="7">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="11" branch="False" />
+              </lines>
+            </method>
+            <method name="get_ProductCode" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="34" branch="False" />
+              </lines>
+            </method>
+            <method name="get_ProductName" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="26" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Quantity" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="24" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Price" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="24" branch="False" />
+              </lines>
+            </method>
+            <method name="get_OriginCountry" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="28" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Description" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="36" hits="24" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="11" branch="False" />
+            <line number="16" hits="34" branch="False" />
+            <line number="20" hits="26" branch="False" />
+            <line number="24" hits="24" branch="False" />
+            <line number="28" hits="24" branch="False" />
+            <line number="32" hits="28" branch="False" />
+            <line number="36" hits="24" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.DataAccess.DatabaseSeeder/&lt;SeedDatabaseAsync&gt;d__0" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\DataAccess\DatabaseSeeder.cs" line-rate="0" branch-rate="0" complexity="8">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="8">
+              <lines>
+                <line number="10" hits="0" branch="False" />
+                <line number="11" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="50" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="18" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="128" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="637" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="21" hits="0" branch="False" />
+                <line number="22" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="344" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
+                <line number="26" hits="0" branch="False" />
+                <line number="27" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+                <line number="34" hits="0" branch="False" />
+                <line number="35" hits="0" branch="False" />
+                <line number="37" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="40" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="False" />
+            <line number="11" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="50" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="18" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="128" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="637" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="21" hits="0" branch="False" />
+            <line number="22" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="344" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="27" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="34" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="37" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.DataAccess.ProductsDbContext" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\DataAccess\ProductsDbContext.cs" line-rate="0.4" branch-rate="1" complexity="4">
+          <methods>
+            <method name="get_Products" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="39" branch="False" />
+              </lines>
+            </method>
+            <method name="OnConfiguring" signature="(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Microsoft.EntityFrameworkCore.DbContextOptions)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Microsoft.Extensions.Configuration.IConfigurationRoot)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="16" branch="False" />
+                <line number="18" hits="16" branch="False" />
+                <line number="19" hits="16" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="39" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="17" hits="16" branch="False" />
+            <line number="18" hits="16" branch="False" />
+            <line number="19" hits="16" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.DataAccess.ProductsDbContextFactory" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\DataAccess\ProductsDbContextFactory.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="CreateDbContext" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="False" />
+                <line number="11" hits="0" branch="False" />
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="17" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="False" />
+            <line number="11" hits="0" branch="False" />
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.DataAccess.ProductsRepository" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\DataAccess\ProductsRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name=".ctor" signature="(ProductConsoleAPI.DataAccess.ProductsDbContext)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="16" branch="False" />
+                <line number="12" hits="16" branch="False" />
+                <line number="13" hits="16" branch="False" />
+                <line number="14" hits="16" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="16" branch="False" />
+            <line number="12" hits="16" branch="False" />
+            <line number="13" hits="16" branch="False" />
+            <line number="14" hits="16" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.DataAccess.ProductsRepository/&lt;AddProductAsync&gt;d__2" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\DataAccess\ProductsRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="8" branch="False" />
+                <line number="18" hits="8" branch="False" />
+                <line number="19" hits="8" branch="False" />
+                <line number="20" hits="8" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="17" hits="8" branch="False" />
+            <line number="18" hits="8" branch="False" />
+            <line number="19" hits="8" branch="False" />
+            <line number="20" hits="8" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.DataAccess.ProductsRepository/&lt;DeleteProductAsync&gt;d__3" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\DataAccess\ProductsRepository.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="23" hits="1" branch="False" />
+                <line number="24" hits="1" branch="False" />
+                <line number="25" hits="1" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="313" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="26" hits="1" branch="False" />
+                <line number="27" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="29" hits="1" branch="False" />
+                <line number="30" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="23" hits="1" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="25" hits="1" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="313" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="26" hits="1" branch="False" />
+            <line number="27" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="29" hits="1" branch="False" />
+            <line number="30" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.DataAccess.ProductsRepository/&lt;GetAllProductsAsync&gt;d__4" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\DataAccess\ProductsRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="33" hits="2" branch="False" />
+                <line number="34" hits="2" branch="False" />
+                <line number="35" hits="2" branch="False" />
+                <line number="36" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="33" hits="2" branch="False" />
+            <line number="34" hits="2" branch="False" />
+            <line number="35" hits="2" branch="False" />
+            <line number="36" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.DataAccess.ProductsRepository/&lt;GetProductByProductCodeAsync&gt;d__5" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\DataAccess\ProductsRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="39" hits="2" branch="False" />
+                <line number="40" hits="2" branch="False" />
+                <line number="41" hits="2" branch="False" />
+                <line number="42" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="39" hits="2" branch="False" />
+            <line number="40" hits="2" branch="False" />
+            <line number="41" hits="2" branch="False" />
+            <line number="42" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.DataAccess.ProductsRepository/&lt;SearchProductsByOriginCountry&gt;d__6" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\DataAccess\ProductsRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="45" hits="3" branch="False" />
+                <line number="46" hits="3" branch="False" />
+                <line number="47" hits="3" branch="False" />
+                <line number="48" hits="3" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="45" hits="3" branch="False" />
+            <line number="46" hits="3" branch="False" />
+            <line number="47" hits="3" branch="False" />
+            <line number="48" hits="3" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.DataAccess.ProductsRepository/&lt;UpdateProductAsync&gt;d__7" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\DataAccess\ProductsRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="51" hits="1" branch="False" />
+                <line number="52" hits="1" branch="False" />
+                <line number="53" hits="1" branch="False" />
+                <line number="54" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="51" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
+            <line number="53" hits="1" branch="False" />
+            <line number="54" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Business.Engine/&lt;&lt;Run&gt;g__AddProduct|0_0&gt;d" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="56" hits="0" branch="False" />
+                <line number="57" hits="0" branch="False" />
+                <line number="59" hits="0" branch="False" />
+                <line number="60" hits="0" branch="False" />
+                <line number="62" hits="0" branch="False" />
+                <line number="63" hits="0" branch="False" />
+                <line number="65" hits="0" branch="False" />
+                <line number="66" hits="0" branch="False" />
+                <line number="68" hits="0" branch="False" />
+                <line number="69" hits="0" branch="False" />
+                <line number="71" hits="0" branch="False" />
+                <line number="72" hits="0" branch="False" />
+                <line number="74" hits="0" branch="False" />
+                <line number="75" hits="0" branch="False" />
+                <line number="77" hits="0" branch="False" />
+                <line number="78" hits="0" branch="False" />
+                <line number="79" hits="0" branch="False" />
+                <line number="80" hits="0" branch="False" />
+                <line number="81" hits="0" branch="False" />
+                <line number="82" hits="0" branch="False" />
+                <line number="83" hits="0" branch="False" />
+                <line number="84" hits="0" branch="False" />
+                <line number="85" hits="0" branch="False" />
+                <line number="87" hits="0" branch="False" />
+                <line number="88" hits="0" branch="False" />
+                <line number="89" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="56" hits="0" branch="False" />
+            <line number="57" hits="0" branch="False" />
+            <line number="59" hits="0" branch="False" />
+            <line number="60" hits="0" branch="False" />
+            <line number="62" hits="0" branch="False" />
+            <line number="63" hits="0" branch="False" />
+            <line number="65" hits="0" branch="False" />
+            <line number="66" hits="0" branch="False" />
+            <line number="68" hits="0" branch="False" />
+            <line number="69" hits="0" branch="False" />
+            <line number="71" hits="0" branch="False" />
+            <line number="72" hits="0" branch="False" />
+            <line number="74" hits="0" branch="False" />
+            <line number="75" hits="0" branch="False" />
+            <line number="77" hits="0" branch="False" />
+            <line number="78" hits="0" branch="False" />
+            <line number="79" hits="0" branch="False" />
+            <line number="80" hits="0" branch="False" />
+            <line number="81" hits="0" branch="False" />
+            <line number="82" hits="0" branch="False" />
+            <line number="83" hits="0" branch="False" />
+            <line number="84" hits="0" branch="False" />
+            <line number="85" hits="0" branch="False" />
+            <line number="87" hits="0" branch="False" />
+            <line number="88" hits="0" branch="False" />
+            <line number="89" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Business.Engine/&lt;&lt;Run&gt;g__DeleteProduct|0_1&gt;d" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="92" hits="0" branch="False" />
+                <line number="93" hits="0" branch="False" />
+                <line number="94" hits="0" branch="False" />
+                <line number="95" hits="0" branch="False" />
+                <line number="96" hits="0" branch="False" />
+                <line number="97" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="92" hits="0" branch="False" />
+            <line number="93" hits="0" branch="False" />
+            <line number="94" hits="0" branch="False" />
+            <line number="95" hits="0" branch="False" />
+            <line number="96" hits="0" branch="False" />
+            <line number="97" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Business.Engine/&lt;&lt;Run&gt;g__FindProductByOriginCountry|0_4&gt;d" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="0" complexity="4">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="163" hits="0" branch="False" />
+                <line number="164" hits="0" branch="False" />
+                <line number="165" hits="0" branch="False" />
+                <line number="166" hits="0" branch="False" />
+                <line number="168" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="181" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="169" hits="0" branch="False" />
+                <line number="170" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="442" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="171" hits="0" branch="False" />
+                <line number="172" hits="0" branch="False" />
+                <line number="173" hits="0" branch="False" />
+                <line number="174" hits="0" branch="False" />
+                <line number="175" hits="0" branch="False" />
+                <line number="176" hits="0" branch="False" />
+                <line number="177" hits="0" branch="False" />
+                <line number="179" hits="0" branch="False" />
+                <line number="180" hits="0" branch="False" />
+                <line number="181" hits="0" branch="False" />
+                <line number="182" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="163" hits="0" branch="False" />
+            <line number="164" hits="0" branch="False" />
+            <line number="165" hits="0" branch="False" />
+            <line number="166" hits="0" branch="False" />
+            <line number="168" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="181" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="169" hits="0" branch="False" />
+            <line number="170" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="442" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="171" hits="0" branch="False" />
+            <line number="172" hits="0" branch="False" />
+            <line number="173" hits="0" branch="False" />
+            <line number="174" hits="0" branch="False" />
+            <line number="175" hits="0" branch="False" />
+            <line number="176" hits="0" branch="False" />
+            <line number="177" hits="0" branch="False" />
+            <line number="179" hits="0" branch="False" />
+            <line number="180" hits="0" branch="False" />
+            <line number="181" hits="0" branch="False" />
+            <line number="182" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Business.Engine/&lt;&lt;Run&gt;g__ListAllProducts|0_2&gt;d" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="0" complexity="4">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="100" hits="0" branch="False" />
+                <line number="101" hits="0" branch="False" />
+                <line number="102" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="153" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="103" hits="0" branch="False" />
+                <line number="104" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="407" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="105" hits="0" branch="False" />
+                <line number="106" hits="0" branch="False" />
+                <line number="107" hits="0" branch="False" />
+                <line number="108" hits="0" branch="False" />
+                <line number="110" hits="0" branch="False" />
+                <line number="111" hits="0" branch="False" />
+                <line number="112" hits="0" branch="False" />
+                <line number="113" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="100" hits="0" branch="False" />
+            <line number="101" hits="0" branch="False" />
+            <line number="102" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="153" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="103" hits="0" branch="False" />
+            <line number="104" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="407" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="105" hits="0" branch="False" />
+            <line number="106" hits="0" branch="False" />
+            <line number="107" hits="0" branch="False" />
+            <line number="108" hits="0" branch="False" />
+            <line number="110" hits="0" branch="False" />
+            <line number="111" hits="0" branch="False" />
+            <line number="112" hits="0" branch="False" />
+            <line number="113" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Business.Engine/&lt;&lt;Run&gt;g__UpdateProduct|0_3&gt;d" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="0" complexity="16">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="16">
+              <lines>
+                <line number="116" hits="0" branch="False" />
+                <line number="117" hits="0" branch="False" />
+                <line number="118" hits="0" branch="False" />
+                <line number="119" hits="0" branch="False" />
+                <line number="120" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="179" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="121" hits="0" branch="False" />
+                <line number="122" hits="0" branch="False" />
+                <line number="123" hits="0" branch="False" />
+                <line number="126" hits="0" branch="False" />
+                <line number="127" hits="0" branch="False" />
+                <line number="128" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="238" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="129" hits="0" branch="False" />
+                <line number="130" hits="0" branch="False" />
+                <line number="131" hits="0" branch="False" />
+                <line number="133" hits="0" branch="False" />
+                <line number="134" hits="0" branch="False" />
+                <line number="135" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="303" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="136" hits="0" branch="False" />
+                <line number="137" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="319" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="138" hits="0" branch="False" />
+                <line number="140" hits="0" branch="False" />
+                <line number="141" hits="0" branch="False" />
+                <line number="142" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="380" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="143" hits="0" branch="False" />
+                <line number="144" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="405" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="145" hits="0" branch="False" />
+                <line number="147" hits="0" branch="False" />
+                <line number="148" hits="0" branch="False" />
+                <line number="149" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="467" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="150" hits="0" branch="False" />
+                <line number="151" hits="0" branch="False" />
+                <line number="152" hits="0" branch="False" />
+                <line number="154" hits="0" branch="False" />
+                <line number="155" hits="0" branch="False" />
+                <line number="156" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="529" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="157" hits="0" branch="False" />
+                <line number="158" hits="0" branch="False" />
+                <line number="159" hits="0" branch="False" />
+                <line number="160" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="116" hits="0" branch="False" />
+            <line number="117" hits="0" branch="False" />
+            <line number="118" hits="0" branch="False" />
+            <line number="119" hits="0" branch="False" />
+            <line number="120" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="179" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="121" hits="0" branch="False" />
+            <line number="122" hits="0" branch="False" />
+            <line number="123" hits="0" branch="False" />
+            <line number="126" hits="0" branch="False" />
+            <line number="127" hits="0" branch="False" />
+            <line number="128" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="238" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="129" hits="0" branch="False" />
+            <line number="130" hits="0" branch="False" />
+            <line number="131" hits="0" branch="False" />
+            <line number="133" hits="0" branch="False" />
+            <line number="134" hits="0" branch="False" />
+            <line number="135" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="303" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="136" hits="0" branch="False" />
+            <line number="137" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="319" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="138" hits="0" branch="False" />
+            <line number="140" hits="0" branch="False" />
+            <line number="141" hits="0" branch="False" />
+            <line number="142" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="380" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="143" hits="0" branch="False" />
+            <line number="144" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="405" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="145" hits="0" branch="False" />
+            <line number="147" hits="0" branch="False" />
+            <line number="148" hits="0" branch="False" />
+            <line number="149" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="467" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="150" hits="0" branch="False" />
+            <line number="151" hits="0" branch="False" />
+            <line number="152" hits="0" branch="False" />
+            <line number="154" hits="0" branch="False" />
+            <line number="155" hits="0" branch="False" />
+            <line number="156" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="529" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="157" hits="0" branch="False" />
+            <line number="158" hits="0" branch="False" />
+            <line number="159" hits="0" branch="False" />
+            <line number="160" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Business.Engine/&lt;Run&gt;d__0" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="0" complexity="16">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="16">
+              <lines>
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="894" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="17" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
+                <line number="27" hits="0" branch="False" />
+                <line number="29" hits="0" branch="True" condition-coverage="0% (0/14)">
+                  <conditions>
+                    <condition number="205" type="jump" coverage="0%" />
+                    <condition number="219" type="jump" coverage="0%" />
+                    <condition number="240" type="switch" coverage="0%" />
+                    <condition number="271" type="jump" coverage="0%" />
+                    <condition number="282" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+                <line number="35" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+                <line number="42" hits="0" branch="False" />
+                <line number="44" hits="0" branch="False" />
+                <line number="45" hits="0" branch="False" />
+                <line number="48" hits="0" branch="False" />
+                <line number="49" hits="0" branch="False" />
+                <line number="51" hits="0" branch="False" />
+                <line number="52" hits="0" branch="False" />
+                <line number="183" hits="0" branch="False" />
+                <line number="184" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="894" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="17" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
+            <line number="27" hits="0" branch="False" />
+            <line number="29" hits="0" branch="True" condition-coverage="0% (0/14)">
+              <conditions>
+                <condition number="205" type="jump" coverage="0%" />
+                <condition number="219" type="jump" coverage="0%" />
+                <condition number="240" type="switch" coverage="0%" />
+                <condition number="271" type="jump" coverage="0%" />
+                <condition number="282" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+            <line number="42" hits="0" branch="False" />
+            <line number="44" hits="0" branch="False" />
+            <line number="45" hits="0" branch="False" />
+            <line number="48" hits="0" branch="False" />
+            <line number="49" hits="0" branch="False" />
+            <line number="51" hits="0" branch="False" />
+            <line number="52" hits="0" branch="False" />
+            <line number="183" hits="0" branch="False" />
+            <line number="184" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Business.ProductsManager" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Business\ProductsManager.cs" line-rate="0.92" branch-rate="0.875" complexity="9">
+          <methods>
+            <method name="DeleteAsync" signature="(System.String)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="26" hits="3" branch="False" />
+                <line number="27" hits="3" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="9" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="28" hits="2" branch="False" />
+                <line number="29" hits="2" branch="False" />
+                <line number="32" hits="1" branch="False" />
+                <line number="33" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="IsValid" signature="(ProductConsoleAPI.Data.Models.Product)" line-rate="0.8665999999999999" branch-rate="0.8332999999999999" complexity="6">
+              <lines>
+                <line number="92" hits="11" branch="False" />
+                <line number="93" hits="11" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="94" hits="0" branch="False" />
+                <line number="95" hits="0" branch="False" />
+                <line number="98" hits="11" branch="False" />
+                <line number="99" hits="11" branch="False" />
+                <line number="101" hits="11" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="43" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="102" hits="2" branch="False" />
+                <line number="103" hits="10" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="98" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="104" hits="2" branch="False" />
+                <line number="105" hits="2" branch="False" />
+                <line number="106" hits="2" branch="False" />
+                <line number="107" hits="2" branch="False" />
+                <line number="110" hits="9" branch="False" />
+                <line number="111" hits="11" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(ProductConsoleAPI.DataAccess.Contrackts.IProductsRepository)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="16" branch="False" />
+                <line number="13" hits="16" branch="False" />
+                <line number="14" hits="16" branch="False" />
+                <line number="15" hits="16" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="26" hits="3" branch="False" />
+            <line number="27" hits="3" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="9" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="28" hits="2" branch="False" />
+            <line number="29" hits="2" branch="False" />
+            <line number="32" hits="1" branch="False" />
+            <line number="33" hits="1" branch="False" />
+            <line number="92" hits="11" branch="False" />
+            <line number="93" hits="11" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="7" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="94" hits="0" branch="False" />
+            <line number="95" hits="0" branch="False" />
+            <line number="98" hits="11" branch="False" />
+            <line number="99" hits="11" branch="False" />
+            <line number="101" hits="11" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="43" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="102" hits="2" branch="False" />
+            <line number="103" hits="10" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="98" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="104" hits="2" branch="False" />
+            <line number="105" hits="2" branch="False" />
+            <line number="106" hits="2" branch="False" />
+            <line number="107" hits="2" branch="False" />
+            <line number="110" hits="9" branch="False" />
+            <line number="111" hits="11" branch="False" />
+            <line number="12" hits="16" branch="False" />
+            <line number="13" hits="16" branch="False" />
+            <line number="14" hits="16" branch="False" />
+            <line number="15" hits="16" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Business.ProductsManager/&lt;AddAsync&gt;d__2" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Business\ProductsManager.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="17" hits="9" branch="False" />
+                <line number="18" hits="9" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="37" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="19" hits="1" branch="False" />
+                <line number="20" hits="1" branch="False" />
+                <line number="22" hits="8" branch="False" />
+                <line number="23" hits="8" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="17" hits="9" branch="False" />
+            <line number="18" hits="9" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="37" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="19" hits="1" branch="False" />
+            <line number="20" hits="1" branch="False" />
+            <line number="22" hits="8" branch="False" />
+            <line number="23" hits="8" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Business.ProductsManager/&lt;GetAllAsync&gt;d__4" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Business\ProductsManager.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="36" hits="2" branch="False" />
+                <line number="37" hits="2" branch="False" />
+                <line number="39" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="163" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="40" hits="1" branch="False" />
+                <line number="41" hits="1" branch="False" />
+                <line number="44" hits="1" branch="False" />
+                <line number="45" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="36" hits="2" branch="False" />
+            <line number="37" hits="2" branch="False" />
+            <line number="39" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="163" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="40" hits="1" branch="False" />
+            <line number="41" hits="1" branch="False" />
+            <line number="44" hits="1" branch="False" />
+            <line number="45" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Business.ProductsManager/&lt;GetSpecificAsync&gt;d__5" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Business\ProductsManager.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="48" hits="3" branch="False" />
+                <line number="49" hits="3" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="28" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="50" hits="1" branch="False" />
+                <line number="51" hits="1" branch="False" />
+                <line number="54" hits="2" branch="False" />
+                <line number="56" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="192" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="57" hits="1" branch="False" />
+                <line number="58" hits="1" branch="False" />
+                <line number="61" hits="1" branch="False" />
+                <line number="62" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="48" hits="3" branch="False" />
+            <line number="49" hits="3" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="28" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="50" hits="1" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="54" hits="2" branch="False" />
+            <line number="56" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="192" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="57" hits="1" branch="False" />
+            <line number="58" hits="1" branch="False" />
+            <line number="61" hits="1" branch="False" />
+            <line number="62" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Business.ProductsManager/&lt;SearchByOriginCountry&gt;d__6" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Business\ProductsManager.cs" line-rate="1" branch-rate="0.8332999999999999" complexity="6">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="0.8332999999999999" complexity="6">
+              <lines>
+                <line number="65" hits="4" branch="False" />
+                <line number="66" hits="4" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="28" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="67" hits="1" branch="False" />
+                <line number="68" hits="1" branch="False" />
+                <line number="71" hits="3" branch="False" />
+                <line number="73" hits="3" branch="True" condition-coverage="75% (3/4)">
+                  <conditions>
+                    <condition number="185" type="jump" coverage="50%" />
+                    <condition number="208" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="74" hits="2" branch="False" />
+                <line number="75" hits="2" branch="False" />
+                <line number="78" hits="1" branch="False" />
+                <line number="79" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="65" hits="4" branch="False" />
+            <line number="66" hits="4" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="28" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="67" hits="1" branch="False" />
+            <line number="68" hits="1" branch="False" />
+            <line number="71" hits="3" branch="False" />
+            <line number="73" hits="3" branch="True" condition-coverage="75% (3/4)">
+              <conditions>
+                <condition number="185" type="jump" coverage="50%" />
+                <condition number="208" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="74" hits="2" branch="False" />
+            <line number="75" hits="2" branch="False" />
+            <line number="78" hits="1" branch="False" />
+            <line number="79" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.Business.ProductsManager/&lt;UpdateAsync&gt;d__7" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI\Business\ProductsManager.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="82" hits="2" branch="False" />
+                <line number="83" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="37" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="84" hits="1" branch="False" />
+                <line number="85" hits="1" branch="False" />
+                <line number="88" hits="1" branch="False" />
+                <line number="89" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="82" hits="2" branch="False" />
+            <line number="83" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="37" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="84" hits="1" branch="False" />
+            <line number="85" hits="1" branch="False" />
+            <line number="88" hits="1" branch="False" />
+            <line number="89" hits="1" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="ProductConsoleAPI.IntegrationTests.NUnit" line-rate="0.9952" branch-rate="0.75" complexity="35">
+      <classes>
+        <class name="AutoGeneratedProgram" filename=".nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="8">
+          <methods>
+            <method name="SetUp" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="16" branch="False" />
+                <line number="18" hits="16" branch="False" />
+                <line number="19" hits="16" branch="False" />
+                <line number="20" hits="16" branch="False" />
+              </lines>
+            </method>
+            <method name="TearDown" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="16" branch="False" />
+                <line number="26" hits="16" branch="False" />
+                <line number="27" hits="16" branch="False" />
+                <line number="28" hits="16" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;DeleteProductAsync_TryToDeleteWithNullOrWhiteSpaceProductCode_ShouldThrowException&gt;b__7_0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="118" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;DeleteProductAsync_TryToDeleteWithWhiteSpaceProductCode_ShouldThrowException&gt;b__8_0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="129" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;GetAllAsync_WhenNoProductsExist_ShouldThrowKeyNotFoundException&gt;b__10_0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="178" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;SearchByOriginCountryAsync_WithNonExistingOriginCountry_ShouldThrowKeyNotFoundException&gt;b__12_0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="213" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;SearchByOriginCountryAsync_WithNullOrWhiteSpace_ShouldThrowKeyNotFoundException&gt;b__13_0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="224" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;SearchByOriginCountryAsync_CountryDoesNotExist_ShouldThrowKeyNotFoundException&gt;b__14_0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="245" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="17" hits="16" branch="False" />
+            <line number="18" hits="16" branch="False" />
+            <line number="19" hits="16" branch="False" />
+            <line number="20" hits="16" branch="False" />
+            <line number="25" hits="16" branch="False" />
+            <line number="26" hits="16" branch="False" />
+            <line number="27" hits="16" branch="False" />
+            <line number="28" hits="16" branch="False" />
+            <line number="118" hits="2" branch="False" />
+            <line number="129" hits="2" branch="False" />
+            <line number="178" hits="2" branch="False" />
+            <line number="213" hits="2" branch="False" />
+            <line number="224" hits="2" branch="False" />
+            <line number="245" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;&gt;c__DisplayClass11_0" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;SearchByOriginCountry_WithExistingOriginCountry_ShouldReturnMatchingProducts&gt;b__0" signature="(ProductConsoleAPI.Data.Models.Product)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="204" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="204" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;&gt;c__DisplayClass16_0" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;GetSpecificAsync_WithInvalidProductCode_ShouldThrowKeyNotFoundException&gt;b__0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="281" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="281" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;&gt;c__DisplayClass17_0" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;GetSpecificAsync_WithNull_ShouldThrowKeyNotFoundException&gt;b__0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="292" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="292" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;&gt;c__DisplayClass19_0" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;UpdateAsync_WithInvalidProduct_ShouldThrowValidationException&gt;b__0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="344" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="344" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;&gt;c__DisplayClass5_0/&lt;&lt;AddProductAsync_TryToAddProductWithInvalidCredentials_ShouldThrowException&gt;b__0&gt;d" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="72" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="72" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;&gt;c__DisplayClass9_0" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;GetAllAsync_WhenProductsExist_ShouldReturnAllProducts&gt;b__0" signature="(ProductConsoleAPI.Data.Models.Product)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="167" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="167" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;AddProductAsync_ShouldAddNewProduct&gt;d__4" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="34" hits="1" branch="False" />
+                <line number="35" hits="1" branch="False" />
+                <line number="36" hits="1" branch="False" />
+                <line number="37" hits="1" branch="False" />
+                <line number="38" hits="1" branch="False" />
+                <line number="39" hits="1" branch="False" />
+                <line number="40" hits="1" branch="False" />
+                <line number="41" hits="1" branch="False" />
+                <line number="42" hits="1" branch="False" />
+                <line number="43" hits="1" branch="False" />
+                <line number="45" hits="1" branch="False" />
+                <line number="47" hits="1" branch="False" />
+                <line number="49" hits="1" branch="False" />
+                <line number="50" hits="1" branch="False" />
+                <line number="51" hits="1" branch="False" />
+                <line number="52" hits="1" branch="False" />
+                <line number="53" hits="1" branch="False" />
+                <line number="54" hits="1" branch="False" />
+                <line number="55" hits="1" branch="False" />
+                <line number="56" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="34" hits="1" branch="False" />
+            <line number="35" hits="1" branch="False" />
+            <line number="36" hits="1" branch="False" />
+            <line number="37" hits="1" branch="False" />
+            <line number="38" hits="1" branch="False" />
+            <line number="39" hits="1" branch="False" />
+            <line number="40" hits="1" branch="False" />
+            <line number="41" hits="1" branch="False" />
+            <line number="42" hits="1" branch="False" />
+            <line number="43" hits="1" branch="False" />
+            <line number="45" hits="1" branch="False" />
+            <line number="47" hits="1" branch="False" />
+            <line number="49" hits="1" branch="False" />
+            <line number="50" hits="1" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
+            <line number="53" hits="1" branch="False" />
+            <line number="54" hits="1" branch="False" />
+            <line number="55" hits="1" branch="False" />
+            <line number="56" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;AddProductAsync_TryToAddProductWithInvalidCredentials_ShouldThrowException&gt;d__5" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="0.5" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="61" hits="1" branch="False" />
+                <line number="62" hits="1" branch="False" />
+                <line number="63" hits="1" branch="False" />
+                <line number="64" hits="1" branch="False" />
+                <line number="65" hits="1" branch="False" />
+                <line number="66" hits="1" branch="False" />
+                <line number="67" hits="1" branch="False" />
+                <line number="68" hits="1" branch="False" />
+                <line number="69" hits="1" branch="False" />
+                <line number="70" hits="1" branch="False" />
+                <line number="73" hits="1" branch="False" />
+                <line number="75" hits="1" branch="False" />
+                <line number="76" hits="1" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="441" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="78" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="61" hits="1" branch="False" />
+            <line number="62" hits="1" branch="False" />
+            <line number="63" hits="1" branch="False" />
+            <line number="64" hits="1" branch="False" />
+            <line number="65" hits="1" branch="False" />
+            <line number="66" hits="1" branch="False" />
+            <line number="67" hits="1" branch="False" />
+            <line number="68" hits="1" branch="False" />
+            <line number="69" hits="1" branch="False" />
+            <line number="70" hits="1" branch="False" />
+            <line number="73" hits="1" branch="False" />
+            <line number="75" hits="1" branch="False" />
+            <line number="76" hits="1" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="441" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="78" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;DeleteProductAsync_TryToDeleteWithNullOrWhiteSpaceProductCode_ShouldThrowException&gt;d__7" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="107" hits="1" branch="False" />
+                <line number="109" hits="1" branch="False" />
+                <line number="110" hits="1" branch="False" />
+                <line number="111" hits="1" branch="False" />
+                <line number="112" hits="1" branch="False" />
+                <line number="113" hits="1" branch="False" />
+                <line number="114" hits="1" branch="False" />
+                <line number="115" hits="1" branch="False" />
+                <line number="116" hits="1" branch="False" />
+                <line number="117" hits="1" branch="False" />
+                <line number="120" hits="1" branch="False" />
+                <line number="123" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="107" hits="1" branch="False" />
+            <line number="109" hits="1" branch="False" />
+            <line number="110" hits="1" branch="False" />
+            <line number="111" hits="1" branch="False" />
+            <line number="112" hits="1" branch="False" />
+            <line number="113" hits="1" branch="False" />
+            <line number="114" hits="1" branch="False" />
+            <line number="115" hits="1" branch="False" />
+            <line number="116" hits="1" branch="False" />
+            <line number="117" hits="1" branch="False" />
+            <line number="120" hits="1" branch="False" />
+            <line number="123" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;DeleteProductAsync_TryToDeleteWithWhiteSpaceProductCode_ShouldThrowException&gt;d__8" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="126" hits="1" branch="False" />
+                <line number="131" hits="1" branch="False" />
+                <line number="134" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="126" hits="1" branch="False" />
+            <line number="131" hits="1" branch="False" />
+            <line number="134" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;DeleteProductAsync_WithValidProductCode_ShouldRemoveProductFromDb&gt;d__6" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="82" hits="1" branch="False" />
+                <line number="84" hits="1" branch="False" />
+                <line number="85" hits="1" branch="False" />
+                <line number="86" hits="1" branch="False" />
+                <line number="87" hits="1" branch="False" />
+                <line number="88" hits="1" branch="False" />
+                <line number="89" hits="1" branch="False" />
+                <line number="90" hits="1" branch="False" />
+                <line number="91" hits="1" branch="False" />
+                <line number="92" hits="1" branch="False" />
+                <line number="93" hits="1" branch="False" />
+                <line number="94" hits="1" branch="False" />
+                <line number="97" hits="1" branch="False" />
+                <line number="98" hits="1" branch="False" />
+                <line number="100" hits="1" branch="False" />
+                <line number="101" hits="1" branch="False" />
+                <line number="103" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="82" hits="1" branch="False" />
+            <line number="84" hits="1" branch="False" />
+            <line number="85" hits="1" branch="False" />
+            <line number="86" hits="1" branch="False" />
+            <line number="87" hits="1" branch="False" />
+            <line number="88" hits="1" branch="False" />
+            <line number="89" hits="1" branch="False" />
+            <line number="90" hits="1" branch="False" />
+            <line number="91" hits="1" branch="False" />
+            <line number="92" hits="1" branch="False" />
+            <line number="93" hits="1" branch="False" />
+            <line number="94" hits="1" branch="False" />
+            <line number="97" hits="1" branch="False" />
+            <line number="98" hits="1" branch="False" />
+            <line number="100" hits="1" branch="False" />
+            <line number="101" hits="1" branch="False" />
+            <line number="103" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;GetAllAsync_WhenNoProductsExist_ShouldThrowKeyNotFoundException&gt;d__10" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="174" hits="1" branch="False" />
+                <line number="181" hits="1" branch="False" />
+                <line number="182" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="174" hits="1" branch="False" />
+            <line number="181" hits="1" branch="False" />
+            <line number="182" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;GetAllAsync_WhenProductsExist_ShouldReturnAllProducts&gt;d__9" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="138" hits="1" branch="False" />
+                <line number="140" hits="1" branch="False" />
+                <line number="141" hits="1" branch="False" />
+                <line number="142" hits="1" branch="False" />
+                <line number="143" hits="1" branch="False" />
+                <line number="144" hits="1" branch="False" />
+                <line number="145" hits="1" branch="False" />
+                <line number="146" hits="1" branch="False" />
+                <line number="147" hits="1" branch="False" />
+                <line number="148" hits="1" branch="False" />
+                <line number="149" hits="1" branch="False" />
+                <line number="150" hits="1" branch="False" />
+                <line number="151" hits="1" branch="False" />
+                <line number="152" hits="1" branch="False" />
+                <line number="153" hits="1" branch="False" />
+                <line number="154" hits="1" branch="False" />
+                <line number="155" hits="1" branch="False" />
+                <line number="156" hits="1" branch="False" />
+                <line number="157" hits="1" branch="False" />
+                <line number="159" hits="1" branch="False" />
+                <line number="160" hits="1" branch="False" />
+                <line number="162" hits="1" branch="False" />
+                <line number="165" hits="1" branch="False" />
+                <line number="166" hits="1" branch="False" />
+                <line number="170" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="138" hits="1" branch="False" />
+            <line number="140" hits="1" branch="False" />
+            <line number="141" hits="1" branch="False" />
+            <line number="142" hits="1" branch="False" />
+            <line number="143" hits="1" branch="False" />
+            <line number="144" hits="1" branch="False" />
+            <line number="145" hits="1" branch="False" />
+            <line number="146" hits="1" branch="False" />
+            <line number="147" hits="1" branch="False" />
+            <line number="148" hits="1" branch="False" />
+            <line number="149" hits="1" branch="False" />
+            <line number="150" hits="1" branch="False" />
+            <line number="151" hits="1" branch="False" />
+            <line number="152" hits="1" branch="False" />
+            <line number="153" hits="1" branch="False" />
+            <line number="154" hits="1" branch="False" />
+            <line number="155" hits="1" branch="False" />
+            <line number="156" hits="1" branch="False" />
+            <line number="157" hits="1" branch="False" />
+            <line number="159" hits="1" branch="False" />
+            <line number="160" hits="1" branch="False" />
+            <line number="162" hits="1" branch="False" />
+            <line number="165" hits="1" branch="False" />
+            <line number="166" hits="1" branch="False" />
+            <line number="170" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;GetSpecificAsync_WithInvalidProductCode_ShouldThrowKeyNotFoundException&gt;d__16" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="277" hits="1" branch="False" />
+                <line number="279" hits="1" branch="False" />
+                <line number="284" hits="1" branch="False" />
+                <line number="285" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="277" hits="1" branch="False" />
+            <line number="279" hits="1" branch="False" />
+            <line number="284" hits="1" branch="False" />
+            <line number="285" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;GetSpecificAsync_WithNull_ShouldThrowKeyNotFoundException&gt;d__17" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="288" hits="1" branch="False" />
+                <line number="290" hits="1" branch="False" />
+                <line number="295" hits="1" branch="False" />
+                <line number="296" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="288" hits="1" branch="False" />
+            <line number="290" hits="1" branch="False" />
+            <line number="295" hits="1" branch="False" />
+            <line number="296" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;GetSpecificAsync_WithValidProductCode_ShouldReturnProduct&gt;d__15" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="253" hits="1" branch="False" />
+                <line number="255" hits="1" branch="False" />
+                <line number="256" hits="1" branch="False" />
+                <line number="257" hits="1" branch="False" />
+                <line number="258" hits="1" branch="False" />
+                <line number="259" hits="1" branch="False" />
+                <line number="260" hits="1" branch="False" />
+                <line number="261" hits="1" branch="False" />
+                <line number="262" hits="1" branch="False" />
+                <line number="263" hits="1" branch="False" />
+                <line number="265" hits="1" branch="False" />
+                <line number="269" hits="1" branch="False" />
+                <line number="272" hits="1" branch="False" />
+                <line number="273" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="253" hits="1" branch="False" />
+            <line number="255" hits="1" branch="False" />
+            <line number="256" hits="1" branch="False" />
+            <line number="257" hits="1" branch="False" />
+            <line number="258" hits="1" branch="False" />
+            <line number="259" hits="1" branch="False" />
+            <line number="260" hits="1" branch="False" />
+            <line number="261" hits="1" branch="False" />
+            <line number="262" hits="1" branch="False" />
+            <line number="263" hits="1" branch="False" />
+            <line number="265" hits="1" branch="False" />
+            <line number="269" hits="1" branch="False" />
+            <line number="272" hits="1" branch="False" />
+            <line number="273" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;SearchByOriginCountryAsync_CountryDoesNotExist_ShouldThrowKeyNotFoundException&gt;d__14" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="231" hits="1" branch="False" />
+                <line number="233" hits="1" branch="False" />
+                <line number="234" hits="1" branch="False" />
+                <line number="235" hits="1" branch="False" />
+                <line number="236" hits="1" branch="False" />
+                <line number="237" hits="1" branch="False" />
+                <line number="238" hits="1" branch="False" />
+                <line number="239" hits="1" branch="False" />
+                <line number="240" hits="1" branch="False" />
+                <line number="241" hits="1" branch="False" />
+                <line number="243" hits="1" branch="False" />
+                <line number="248" hits="1" branch="False" />
+                <line number="249" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="231" hits="1" branch="False" />
+            <line number="233" hits="1" branch="False" />
+            <line number="234" hits="1" branch="False" />
+            <line number="235" hits="1" branch="False" />
+            <line number="236" hits="1" branch="False" />
+            <line number="237" hits="1" branch="False" />
+            <line number="238" hits="1" branch="False" />
+            <line number="239" hits="1" branch="False" />
+            <line number="240" hits="1" branch="False" />
+            <line number="241" hits="1" branch="False" />
+            <line number="243" hits="1" branch="False" />
+            <line number="248" hits="1" branch="False" />
+            <line number="249" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;SearchByOriginCountryAsync_WithNonExistingOriginCountry_ShouldThrowKeyNotFoundException&gt;d__12" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="209" hits="1" branch="False" />
+                <line number="216" hits="1" branch="False" />
+                <line number="217" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="209" hits="1" branch="False" />
+            <line number="216" hits="1" branch="False" />
+            <line number="217" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;SearchByOriginCountryAsync_WithNullOrWhiteSpace_ShouldThrowKeyNotFoundException&gt;d__13" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="220" hits="1" branch="False" />
+                <line number="227" hits="1" branch="False" />
+                <line number="228" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="220" hits="1" branch="False" />
+            <line number="227" hits="1" branch="False" />
+            <line number="228" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;SearchByOriginCountry_WithExistingOriginCountry_ShouldReturnMatchingProducts&gt;d__11" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="186" hits="1" branch="False" />
+                <line number="189" hits="1" branch="False" />
+                <line number="190" hits="1" branch="False" />
+                <line number="191" hits="1" branch="False" />
+                <line number="192" hits="1" branch="False" />
+                <line number="193" hits="1" branch="False" />
+                <line number="194" hits="1" branch="False" />
+                <line number="195" hits="1" branch="False" />
+                <line number="196" hits="1" branch="False" />
+                <line number="197" hits="1" branch="False" />
+                <line number="199" hits="1" branch="False" />
+                <line number="201" hits="1" branch="False" />
+                <line number="205" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="186" hits="1" branch="False" />
+            <line number="189" hits="1" branch="False" />
+            <line number="190" hits="1" branch="False" />
+            <line number="191" hits="1" branch="False" />
+            <line number="192" hits="1" branch="False" />
+            <line number="193" hits="1" branch="False" />
+            <line number="194" hits="1" branch="False" />
+            <line number="195" hits="1" branch="False" />
+            <line number="196" hits="1" branch="False" />
+            <line number="197" hits="1" branch="False" />
+            <line number="199" hits="1" branch="False" />
+            <line number="201" hits="1" branch="False" />
+            <line number="205" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;UpdateAsync_WithInvalidProduct_ShouldThrowValidationException&gt;d__19" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="333" hits="1" branch="False" />
+                <line number="335" hits="1" branch="False" />
+                <line number="336" hits="1" branch="False" />
+                <line number="337" hits="1" branch="False" />
+                <line number="338" hits="1" branch="False" />
+                <line number="339" hits="1" branch="False" />
+                <line number="340" hits="1" branch="False" />
+                <line number="341" hits="1" branch="False" />
+                <line number="347" hits="1" branch="False" />
+                <line number="349" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="333" hits="1" branch="False" />
+            <line number="335" hits="1" branch="False" />
+            <line number="336" hits="1" branch="False" />
+            <line number="337" hits="1" branch="False" />
+            <line number="338" hits="1" branch="False" />
+            <line number="339" hits="1" branch="False" />
+            <line number="340" hits="1" branch="False" />
+            <line number="341" hits="1" branch="False" />
+            <line number="347" hits="1" branch="False" />
+            <line number="349" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;UpdateAsync_WithValidProduct_ShouldUpdateProduct&gt;d__18" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="300" hits="1" branch="False" />
+                <line number="302" hits="1" branch="False" />
+                <line number="303" hits="1" branch="False" />
+                <line number="304" hits="1" branch="False" />
+                <line number="305" hits="1" branch="False" />
+                <line number="306" hits="1" branch="False" />
+                <line number="307" hits="1" branch="False" />
+                <line number="308" hits="1" branch="False" />
+                <line number="309" hits="1" branch="False" />
+                <line number="310" hits="1" branch="False" />
+                <line number="311" hits="1" branch="False" />
+                <line number="312" hits="1" branch="False" />
+                <line number="313" hits="1" branch="False" />
+                <line number="314" hits="1" branch="False" />
+                <line number="315" hits="1" branch="False" />
+                <line number="316" hits="1" branch="False" />
+                <line number="317" hits="1" branch="False" />
+                <line number="318" hits="1" branch="False" />
+                <line number="319" hits="1" branch="False" />
+                <line number="321" hits="1" branch="False" />
+                <line number="322" hits="1" branch="False" />
+                <line number="324" hits="1" branch="False" />
+                <line number="326" hits="1" branch="False" />
+                <line number="329" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="300" hits="1" branch="False" />
+            <line number="302" hits="1" branch="False" />
+            <line number="303" hits="1" branch="False" />
+            <line number="304" hits="1" branch="False" />
+            <line number="305" hits="1" branch="False" />
+            <line number="306" hits="1" branch="False" />
+            <line number="307" hits="1" branch="False" />
+            <line number="308" hits="1" branch="False" />
+            <line number="309" hits="1" branch="False" />
+            <line number="310" hits="1" branch="False" />
+            <line number="311" hits="1" branch="False" />
+            <line number="312" hits="1" branch="False" />
+            <line number="313" hits="1" branch="False" />
+            <line number="314" hits="1" branch="False" />
+            <line number="315" hits="1" branch="False" />
+            <line number="316" hits="1" branch="False" />
+            <line number="317" hits="1" branch="False" />
+            <line number="318" hits="1" branch="False" />
+            <line number="319" hits="1" branch="False" />
+            <line number="321" hits="1" branch="False" />
+            <line number="322" hits="1" branch="False" />
+            <line number="324" hits="1" branch="False" />
+            <line number="326" hits="1" branch="False" />
+            <line number="329" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ProductConsoleAPI.IntegrationTests.NUnit.TestProductsDbContext" filename="Desktop\PREPARE EXAM Back-End\SECOND EXAM PREP BACK END\ProductConsoleAPI\ProductConsoleAPI.IntegrationTests.NUnit\TestProductsDbContext.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="OnConfiguring" signature="(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="15" hits="16" branch="False" />
+                <line number="16" hits="16" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="12" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="17" hits="16" branch="False" />
+                <line number="18" hits="16" branch="False" />
+                <line number="19" hits="16" branch="False" />
+                <line number="20" hits="16" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="16" branch="False" />
+                <line number="11" hits="16" branch="False" />
+                <line number="12" hits="16" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="16" branch="False" />
+            <line number="16" hits="16" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="12" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="17" hits="16" branch="False" />
+            <line number="18" hits="16" branch="False" />
+            <line number="19" hits="16" branch="False" />
+            <line number="20" hits="16" branch="False" />
+            <line number="10" hits="16" branch="False" />
+            <line number="11" hits="16" branch="False" />
+            <line number="12" hits="16" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

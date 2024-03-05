@@ -1,0 +1,2052 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.5908" branch-rate="0.3448" version="1.9" timestamp="1708439637" lines-covered="335" lines-valid="567" branches-covered="30" branches-valid="87">
+  <sources>
+    <source>C:\Users\Atanas Work\</source>
+  </sources>
+  <packages>
+    <package name="ContactsConsoleAPI" line-rate="0.3381" branch-rate="0.32530000000000003" complexity="107">
+      <classes>
+        <class name="ContactsConsoleAPI.Program/&lt;Main&gt;d__0" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+                <line number="34" hits="0" branch="False" />
+                <line number="35" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="34" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Data.Models.Contact" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Data\Models\Contact.cs" line-rate="1" branch-rate="1" complexity="8">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="11" branch="False" />
+              </lines>
+            </method>
+            <method name="get_FirstName" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="36" branch="False" />
+              </lines>
+            </method>
+            <method name="get_LastName" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="32" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Address" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="23" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Phone" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="27" hits="25" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Email" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="23" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Gender" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="36" hits="21" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Contact_ULID" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="40" hits="36" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="11" branch="False" />
+            <line number="15" hits="36" branch="False" />
+            <line number="19" hits="32" branch="False" />
+            <line number="23" hits="23" branch="False" />
+            <line number="27" hits="25" branch="False" />
+            <line number="32" hits="23" branch="False" />
+            <line number="36" hits="21" branch="False" />
+            <line number="40" hits="36" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.DataAccess.ContactDbContextFactory" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\DataAccess\ContactDbContextFactory.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="CreateDbContext" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.DataAccess.ContactRepository" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\DataAccess\ContactRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name=".ctor" signature="(ContactsConsoleAPI.DataAccess.ContactsDbContext)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="15" branch="False" />
+                <line number="12" hits="15" branch="False" />
+                <line number="13" hits="15" branch="False" />
+                <line number="14" hits="15" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="15" branch="False" />
+            <line number="12" hits="15" branch="False" />
+            <line number="13" hits="15" branch="False" />
+            <line number="14" hits="15" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.DataAccess.ContactRepository/&lt;AddContactAsync&gt;d__2" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\DataAccess\ContactRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="8" branch="False" />
+                <line number="17" hits="8" branch="False" />
+                <line number="18" hits="8" branch="False" />
+                <line number="19" hits="8" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="16" hits="8" branch="False" />
+            <line number="17" hits="8" branch="False" />
+            <line number="18" hits="8" branch="False" />
+            <line number="19" hits="8" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.DataAccess.ContactRepository/&lt;DeleteContactAsync&gt;d__3" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\DataAccess\ContactRepository.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="22" hits="1" branch="False" />
+                <line number="23" hits="1" branch="False" />
+                <line number="24" hits="1" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="313" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="25" hits="1" branch="False" />
+                <line number="26" hits="1" branch="False" />
+                <line number="27" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="29" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="22" hits="1" branch="False" />
+            <line number="23" hits="1" branch="False" />
+            <line number="24" hits="1" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="313" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="25" hits="1" branch="False" />
+            <line number="26" hits="1" branch="False" />
+            <line number="27" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="29" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.DataAccess.ContactRepository/&lt;GetAllContactsAsync&gt;d__4" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\DataAccess\ContactRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="2" branch="False" />
+                <line number="33" hits="2" branch="False" />
+                <line number="34" hits="2" branch="False" />
+                <line number="35" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="32" hits="2" branch="False" />
+            <line number="33" hits="2" branch="False" />
+            <line number="34" hits="2" branch="False" />
+            <line number="35" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.DataAccess.ContactRepository/&lt;GetContactByULIDAsync&gt;d__5" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\DataAccess\ContactRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="38" hits="2" branch="False" />
+                <line number="39" hits="2" branch="False" />
+                <line number="40" hits="2" branch="False" />
+                <line number="41" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="38" hits="2" branch="False" />
+            <line number="39" hits="2" branch="False" />
+            <line number="40" hits="2" branch="False" />
+            <line number="41" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.DataAccess.ContactRepository/&lt;SearchContactsByFirstName&gt;d__6" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\DataAccess\ContactRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="44" hits="2" branch="False" />
+                <line number="45" hits="2" branch="False" />
+                <line number="46" hits="2" branch="False" />
+                <line number="47" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="44" hits="2" branch="False" />
+            <line number="45" hits="2" branch="False" />
+            <line number="46" hits="2" branch="False" />
+            <line number="47" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.DataAccess.ContactRepository/&lt;SearchContactsByLastName&gt;d__7" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\DataAccess\ContactRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="50" hits="2" branch="False" />
+                <line number="51" hits="2" branch="False" />
+                <line number="52" hits="2" branch="False" />
+                <line number="53" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="50" hits="2" branch="False" />
+            <line number="51" hits="2" branch="False" />
+            <line number="52" hits="2" branch="False" />
+            <line number="53" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.DataAccess.ContactRepository/&lt;UpdateContactAsync&gt;d__8" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\DataAccess\ContactRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="56" hits="1" branch="False" />
+                <line number="57" hits="1" branch="False" />
+                <line number="58" hits="1" branch="False" />
+                <line number="59" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="56" hits="1" branch="False" />
+            <line number="57" hits="1" branch="False" />
+            <line number="58" hits="1" branch="False" />
+            <line number="59" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.DataAccess.ContactsDbContext" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\DataAccess\ContactsDbContext.cs" line-rate="0.4" branch-rate="1" complexity="4">
+          <methods>
+            <method name="get_Contacts" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="38" branch="False" />
+              </lines>
+            </method>
+            <method name="OnConfiguring" signature="(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Microsoft.EntityFrameworkCore.DbContextOptions)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Microsoft.Extensions.Configuration.IConfigurationRoot)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="15" branch="False" />
+                <line number="18" hits="15" branch="False" />
+                <line number="19" hits="15" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="38" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="17" hits="15" branch="False" />
+            <line number="18" hits="15" branch="False" />
+            <line number="19" hits="15" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.DataAccess.DatabaseSeeder/&lt;SeedDatabaseAsync&gt;d__0" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\DataAccess\DatabaseSeeder.cs" line-rate="0" branch-rate="0" complexity="8">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="8">
+              <lines>
+                <line number="10" hits="0" branch="False" />
+                <line number="11" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="50" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="18" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="128" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="660" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="21" hits="0" branch="False" />
+                <line number="22" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="344" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
+                <line number="26" hits="0" branch="False" />
+                <line number="27" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+                <line number="34" hits="0" branch="False" />
+                <line number="35" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="40" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="False" />
+            <line number="11" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="50" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="18" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="128" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="660" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="21" hits="0" branch="False" />
+            <line number="22" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="344" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="27" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="34" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.ContactManager" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\ContactManager.cs" line-rate="0.92" branch-rate="0.875" complexity="9">
+          <methods>
+            <method name="DeleteAsync" signature="(System.String)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="29" hits="2" branch="False" />
+                <line number="30" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="9" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="31" hits="1" branch="False" />
+                <line number="32" hits="1" branch="False" />
+                <line number="35" hits="1" branch="False" />
+                <line number="36" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="IsValid" signature="(ContactsConsoleAPI.Data.Models.Contact)" line-rate="0.8665999999999999" branch-rate="0.8332999999999999" complexity="6">
+              <lines>
+                <line number="112" hits="11" branch="False" />
+                <line number="113" hits="11" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="114" hits="0" branch="False" />
+                <line number="115" hits="0" branch="False" />
+                <line number="118" hits="11" branch="False" />
+                <line number="119" hits="11" branch="False" />
+                <line number="121" hits="11" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="43" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="122" hits="2" branch="False" />
+                <line number="123" hits="18" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="98" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="124" hits="6" branch="False" />
+                <line number="125" hits="6" branch="False" />
+                <line number="126" hits="6" branch="False" />
+                <line number="127" hits="2" branch="False" />
+                <line number="130" hits="9" branch="False" />
+                <line number="131" hits="11" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(ContactsConsoleAPI.DataAccess.Contrackts.IContactRepository)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="15" branch="False" />
+                <line number="13" hits="15" branch="False" />
+                <line number="14" hits="15" branch="False" />
+                <line number="15" hits="15" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="29" hits="2" branch="False" />
+            <line number="30" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="9" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="31" hits="1" branch="False" />
+            <line number="32" hits="1" branch="False" />
+            <line number="35" hits="1" branch="False" />
+            <line number="36" hits="1" branch="False" />
+            <line number="112" hits="11" branch="False" />
+            <line number="113" hits="11" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="7" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="114" hits="0" branch="False" />
+            <line number="115" hits="0" branch="False" />
+            <line number="118" hits="11" branch="False" />
+            <line number="119" hits="11" branch="False" />
+            <line number="121" hits="11" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="43" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="122" hits="2" branch="False" />
+            <line number="123" hits="18" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="98" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="124" hits="6" branch="False" />
+            <line number="125" hits="6" branch="False" />
+            <line number="126" hits="6" branch="False" />
+            <line number="127" hits="2" branch="False" />
+            <line number="130" hits="9" branch="False" />
+            <line number="131" hits="11" branch="False" />
+            <line number="12" hits="15" branch="False" />
+            <line number="13" hits="15" branch="False" />
+            <line number="14" hits="15" branch="False" />
+            <line number="15" hits="15" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.ContactManager/&lt;AddAsync&gt;d__2" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\ContactManager.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="17" hits="9" branch="False" />
+                <line number="18" hits="9" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="37" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="19" hits="1" branch="False" />
+                <line number="20" hits="1" branch="False" />
+                <line number="23" hits="8" branch="False" />
+                <line number="24" hits="8" branch="False" />
+                <line number="25" hits="8" branch="False" />
+                <line number="26" hits="8" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="17" hits="9" branch="False" />
+            <line number="18" hits="9" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="37" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="19" hits="1" branch="False" />
+            <line number="20" hits="1" branch="False" />
+            <line number="23" hits="8" branch="False" />
+            <line number="24" hits="8" branch="False" />
+            <line number="25" hits="8" branch="False" />
+            <line number="26" hits="8" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.ContactManager/&lt;GetAllAsync&gt;d__4" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\ContactManager.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="39" hits="2" branch="False" />
+                <line number="40" hits="2" branch="False" />
+                <line number="42" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="163" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="43" hits="1" branch="False" />
+                <line number="44" hits="1" branch="False" />
+                <line number="47" hits="1" branch="False" />
+                <line number="48" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="39" hits="2" branch="False" />
+            <line number="40" hits="2" branch="False" />
+            <line number="42" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="163" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="43" hits="1" branch="False" />
+            <line number="44" hits="1" branch="False" />
+            <line number="47" hits="1" branch="False" />
+            <line number="48" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.ContactManager/&lt;GetSpecificAsync&gt;d__5" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\ContactManager.cs" line-rate="0.8" branch-rate="0.75" complexity="4">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0.8" branch-rate="0.75" complexity="4">
+              <lines>
+                <line number="51" hits="2" branch="False" />
+                <line number="52" hits="2" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="28" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="53" hits="0" branch="False" />
+                <line number="54" hits="0" branch="False" />
+                <line number="57" hits="2" branch="False" />
+                <line number="59" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="192" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="60" hits="1" branch="False" />
+                <line number="61" hits="1" branch="False" />
+                <line number="64" hits="1" branch="False" />
+                <line number="65" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="51" hits="2" branch="False" />
+            <line number="52" hits="2" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="28" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="53" hits="0" branch="False" />
+            <line number="54" hits="0" branch="False" />
+            <line number="57" hits="2" branch="False" />
+            <line number="59" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="192" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="60" hits="1" branch="False" />
+            <line number="61" hits="1" branch="False" />
+            <line number="64" hits="1" branch="False" />
+            <line number="65" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.ContactManager/&lt;SearchByFirstNameAsync&gt;d__6" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\ContactManager.cs" line-rate="0.8" branch-rate="0.6666" complexity="6">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0.8" branch-rate="0.6666" complexity="6">
+              <lines>
+                <line number="68" hits="2" branch="False" />
+                <line number="69" hits="2" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="28" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="70" hits="0" branch="False" />
+                <line number="71" hits="0" branch="False" />
+                <line number="74" hits="2" branch="False" />
+                <line number="76" hits="2" branch="True" condition-coverage="75% (3/4)">
+                  <conditions>
+                    <condition number="185" type="jump" coverage="50%" />
+                    <condition number="208" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="77" hits="1" branch="False" />
+                <line number="78" hits="1" branch="False" />
+                <line number="81" hits="1" branch="False" />
+                <line number="82" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="68" hits="2" branch="False" />
+            <line number="69" hits="2" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="28" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="70" hits="0" branch="False" />
+            <line number="71" hits="0" branch="False" />
+            <line number="74" hits="2" branch="False" />
+            <line number="76" hits="2" branch="True" condition-coverage="75% (3/4)">
+              <conditions>
+                <condition number="185" type="jump" coverage="50%" />
+                <condition number="208" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="77" hits="1" branch="False" />
+            <line number="78" hits="1" branch="False" />
+            <line number="81" hits="1" branch="False" />
+            <line number="82" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.ContactManager/&lt;SearchByLastNameAsync&gt;d__7" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\ContactManager.cs" line-rate="1" branch-rate="0.8332999999999999" complexity="6">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="0.8332999999999999" complexity="6">
+              <lines>
+                <line number="85" hits="3" branch="False" />
+                <line number="86" hits="3" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="28" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="87" hits="1" branch="False" />
+                <line number="88" hits="1" branch="False" />
+                <line number="91" hits="2" branch="False" />
+                <line number="93" hits="2" branch="True" condition-coverage="75% (3/4)">
+                  <conditions>
+                    <condition number="185" type="jump" coverage="50%" />
+                    <condition number="208" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="94" hits="1" branch="False" />
+                <line number="95" hits="1" branch="False" />
+                <line number="98" hits="1" branch="False" />
+                <line number="99" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="85" hits="3" branch="False" />
+            <line number="86" hits="3" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="28" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="87" hits="1" branch="False" />
+            <line number="88" hits="1" branch="False" />
+            <line number="91" hits="2" branch="False" />
+            <line number="93" hits="2" branch="True" condition-coverage="75% (3/4)">
+              <conditions>
+                <condition number="185" type="jump" coverage="50%" />
+                <condition number="208" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="94" hits="1" branch="False" />
+            <line number="95" hits="1" branch="False" />
+            <line number="98" hits="1" branch="False" />
+            <line number="99" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.ContactManager/&lt;UpdateAsync&gt;d__8" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\ContactManager.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="102" hits="2" branch="False" />
+                <line number="103" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="37" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="104" hits="1" branch="False" />
+                <line number="105" hits="1" branch="False" />
+                <line number="108" hits="1" branch="False" />
+                <line number="109" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="102" hits="2" branch="False" />
+            <line number="103" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="37" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="104" hits="1" branch="False" />
+            <line number="105" hits="1" branch="False" />
+            <line number="108" hits="1" branch="False" />
+            <line number="109" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.Engine/&lt;&lt;Run&gt;g__AddContact|0_0&gt;d" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="55" hits="0" branch="False" />
+                <line number="56" hits="0" branch="False" />
+                <line number="58" hits="0" branch="False" />
+                <line number="59" hits="0" branch="False" />
+                <line number="61" hits="0" branch="False" />
+                <line number="62" hits="0" branch="False" />
+                <line number="64" hits="0" branch="False" />
+                <line number="65" hits="0" branch="False" />
+                <line number="67" hits="0" branch="False" />
+                <line number="68" hits="0" branch="False" />
+                <line number="70" hits="0" branch="False" />
+                <line number="71" hits="0" branch="False" />
+                <line number="73" hits="0" branch="False" />
+                <line number="74" hits="0" branch="False" />
+                <line number="76" hits="0" branch="False" />
+                <line number="77" hits="0" branch="False" />
+                <line number="79" hits="0" branch="False" />
+                <line number="80" hits="0" branch="False" />
+                <line number="81" hits="0" branch="False" />
+                <line number="82" hits="0" branch="False" />
+                <line number="83" hits="0" branch="False" />
+                <line number="84" hits="0" branch="False" />
+                <line number="85" hits="0" branch="False" />
+                <line number="86" hits="0" branch="False" />
+                <line number="87" hits="0" branch="False" />
+                <line number="88" hits="0" branch="False" />
+                <line number="90" hits="0" branch="False" />
+                <line number="91" hits="0" branch="False" />
+                <line number="92" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="55" hits="0" branch="False" />
+            <line number="56" hits="0" branch="False" />
+            <line number="58" hits="0" branch="False" />
+            <line number="59" hits="0" branch="False" />
+            <line number="61" hits="0" branch="False" />
+            <line number="62" hits="0" branch="False" />
+            <line number="64" hits="0" branch="False" />
+            <line number="65" hits="0" branch="False" />
+            <line number="67" hits="0" branch="False" />
+            <line number="68" hits="0" branch="False" />
+            <line number="70" hits="0" branch="False" />
+            <line number="71" hits="0" branch="False" />
+            <line number="73" hits="0" branch="False" />
+            <line number="74" hits="0" branch="False" />
+            <line number="76" hits="0" branch="False" />
+            <line number="77" hits="0" branch="False" />
+            <line number="79" hits="0" branch="False" />
+            <line number="80" hits="0" branch="False" />
+            <line number="81" hits="0" branch="False" />
+            <line number="82" hits="0" branch="False" />
+            <line number="83" hits="0" branch="False" />
+            <line number="84" hits="0" branch="False" />
+            <line number="85" hits="0" branch="False" />
+            <line number="86" hits="0" branch="False" />
+            <line number="87" hits="0" branch="False" />
+            <line number="88" hits="0" branch="False" />
+            <line number="90" hits="0" branch="False" />
+            <line number="91" hits="0" branch="False" />
+            <line number="92" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.Engine/&lt;&lt;Run&gt;g__DeleteBook|0_1&gt;d" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="95" hits="0" branch="False" />
+                <line number="96" hits="0" branch="False" />
+                <line number="97" hits="0" branch="False" />
+                <line number="98" hits="0" branch="False" />
+                <line number="99" hits="0" branch="False" />
+                <line number="100" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="95" hits="0" branch="False" />
+            <line number="96" hits="0" branch="False" />
+            <line number="97" hits="0" branch="False" />
+            <line number="98" hits="0" branch="False" />
+            <line number="99" hits="0" branch="False" />
+            <line number="100" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.Engine/&lt;&lt;Run&gt;g__FindBookByFirstName|0_4&gt;d" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="0" complexity="4">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="176" hits="0" branch="False" />
+                <line number="177" hits="0" branch="False" />
+                <line number="178" hits="0" branch="False" />
+                <line number="179" hits="0" branch="False" />
+                <line number="181" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="181" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="182" hits="0" branch="False" />
+                <line number="183" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="442" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="184" hits="0" branch="False" />
+                <line number="185" hits="0" branch="False" />
+                <line number="186" hits="0" branch="False" />
+                <line number="187" hits="0" branch="False" />
+                <line number="188" hits="0" branch="False" />
+                <line number="189" hits="0" branch="False" />
+                <line number="190" hits="0" branch="False" />
+                <line number="192" hits="0" branch="False" />
+                <line number="193" hits="0" branch="False" />
+                <line number="194" hits="0" branch="False" />
+                <line number="195" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="176" hits="0" branch="False" />
+            <line number="177" hits="0" branch="False" />
+            <line number="178" hits="0" branch="False" />
+            <line number="179" hits="0" branch="False" />
+            <line number="181" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="181" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="182" hits="0" branch="False" />
+            <line number="183" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="442" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="184" hits="0" branch="False" />
+            <line number="185" hits="0" branch="False" />
+            <line number="186" hits="0" branch="False" />
+            <line number="187" hits="0" branch="False" />
+            <line number="188" hits="0" branch="False" />
+            <line number="189" hits="0" branch="False" />
+            <line number="190" hits="0" branch="False" />
+            <line number="192" hits="0" branch="False" />
+            <line number="193" hits="0" branch="False" />
+            <line number="194" hits="0" branch="False" />
+            <line number="195" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.Engine/&lt;&lt;Run&gt;g__FindBookByLastName|0_5&gt;d" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="0" complexity="4">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="198" hits="0" branch="False" />
+                <line number="199" hits="0" branch="False" />
+                <line number="200" hits="0" branch="False" />
+                <line number="201" hits="0" branch="False" />
+                <line number="203" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="181" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="204" hits="0" branch="False" />
+                <line number="205" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="442" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="206" hits="0" branch="False" />
+                <line number="207" hits="0" branch="False" />
+                <line number="208" hits="0" branch="False" />
+                <line number="209" hits="0" branch="False" />
+                <line number="210" hits="0" branch="False" />
+                <line number="211" hits="0" branch="False" />
+                <line number="212" hits="0" branch="False" />
+                <line number="214" hits="0" branch="False" />
+                <line number="215" hits="0" branch="False" />
+                <line number="216" hits="0" branch="False" />
+                <line number="217" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="198" hits="0" branch="False" />
+            <line number="199" hits="0" branch="False" />
+            <line number="200" hits="0" branch="False" />
+            <line number="201" hits="0" branch="False" />
+            <line number="203" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="181" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="204" hits="0" branch="False" />
+            <line number="205" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="442" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="206" hits="0" branch="False" />
+            <line number="207" hits="0" branch="False" />
+            <line number="208" hits="0" branch="False" />
+            <line number="209" hits="0" branch="False" />
+            <line number="210" hits="0" branch="False" />
+            <line number="211" hits="0" branch="False" />
+            <line number="212" hits="0" branch="False" />
+            <line number="214" hits="0" branch="False" />
+            <line number="215" hits="0" branch="False" />
+            <line number="216" hits="0" branch="False" />
+            <line number="217" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.Engine/&lt;&lt;Run&gt;g__ListAllBooks|0_2&gt;d" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="0" complexity="4">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="103" hits="0" branch="False" />
+                <line number="104" hits="0" branch="False" />
+                <line number="105" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="153" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="106" hits="0" branch="False" />
+                <line number="107" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="402" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="108" hits="0" branch="False" />
+                <line number="109" hits="0" branch="False" />
+                <line number="110" hits="0" branch="False" />
+                <line number="111" hits="0" branch="False" />
+                <line number="113" hits="0" branch="False" />
+                <line number="114" hits="0" branch="False" />
+                <line number="115" hits="0" branch="False" />
+                <line number="116" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="103" hits="0" branch="False" />
+            <line number="104" hits="0" branch="False" />
+            <line number="105" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="153" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="106" hits="0" branch="False" />
+            <line number="107" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="402" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="108" hits="0" branch="False" />
+            <line number="109" hits="0" branch="False" />
+            <line number="110" hits="0" branch="False" />
+            <line number="111" hits="0" branch="False" />
+            <line number="113" hits="0" branch="False" />
+            <line number="114" hits="0" branch="False" />
+            <line number="115" hits="0" branch="False" />
+            <line number="116" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.Engine/&lt;&lt;Run&gt;g__UpdateContact|0_3&gt;d" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="0" complexity="14">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="14">
+              <lines>
+                <line number="119" hits="0" branch="False" />
+                <line number="120" hits="0" branch="False" />
+                <line number="121" hits="0" branch="False" />
+                <line number="122" hits="0" branch="False" />
+                <line number="123" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="190" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="124" hits="0" branch="False" />
+                <line number="125" hits="0" branch="False" />
+                <line number="126" hits="0" branch="False" />
+                <line number="129" hits="0" branch="False" />
+                <line number="130" hits="0" branch="False" />
+                <line number="131" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="249" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="132" hits="0" branch="False" />
+                <line number="133" hits="0" branch="False" />
+                <line number="134" hits="0" branch="False" />
+                <line number="136" hits="0" branch="False" />
+                <line number="137" hits="0" branch="False" />
+                <line number="138" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="311" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="139" hits="0" branch="False" />
+                <line number="140" hits="0" branch="False" />
+                <line number="141" hits="0" branch="False" />
+                <line number="143" hits="0" branch="False" />
+                <line number="144" hits="0" branch="False" />
+                <line number="145" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="373" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="146" hits="0" branch="False" />
+                <line number="147" hits="0" branch="False" />
+                <line number="148" hits="0" branch="False" />
+                <line number="150" hits="0" branch="False" />
+                <line number="151" hits="0" branch="False" />
+                <line number="152" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="435" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="153" hits="0" branch="False" />
+                <line number="154" hits="0" branch="False" />
+                <line number="155" hits="0" branch="False" />
+                <line number="157" hits="0" branch="False" />
+                <line number="158" hits="0" branch="False" />
+                <line number="159" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="497" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="160" hits="0" branch="False" />
+                <line number="161" hits="0" branch="False" />
+                <line number="162" hits="0" branch="False" />
+                <line number="164" hits="0" branch="False" />
+                <line number="165" hits="0" branch="False" />
+                <line number="166" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="559" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="167" hits="0" branch="False" />
+                <line number="168" hits="0" branch="False" />
+                <line number="169" hits="0" branch="False" />
+                <line number="171" hits="0" branch="False" />
+                <line number="172" hits="0" branch="False" />
+                <line number="173" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="119" hits="0" branch="False" />
+            <line number="120" hits="0" branch="False" />
+            <line number="121" hits="0" branch="False" />
+            <line number="122" hits="0" branch="False" />
+            <line number="123" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="190" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="124" hits="0" branch="False" />
+            <line number="125" hits="0" branch="False" />
+            <line number="126" hits="0" branch="False" />
+            <line number="129" hits="0" branch="False" />
+            <line number="130" hits="0" branch="False" />
+            <line number="131" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="249" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="132" hits="0" branch="False" />
+            <line number="133" hits="0" branch="False" />
+            <line number="134" hits="0" branch="False" />
+            <line number="136" hits="0" branch="False" />
+            <line number="137" hits="0" branch="False" />
+            <line number="138" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="311" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="139" hits="0" branch="False" />
+            <line number="140" hits="0" branch="False" />
+            <line number="141" hits="0" branch="False" />
+            <line number="143" hits="0" branch="False" />
+            <line number="144" hits="0" branch="False" />
+            <line number="145" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="373" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="146" hits="0" branch="False" />
+            <line number="147" hits="0" branch="False" />
+            <line number="148" hits="0" branch="False" />
+            <line number="150" hits="0" branch="False" />
+            <line number="151" hits="0" branch="False" />
+            <line number="152" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="435" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="153" hits="0" branch="False" />
+            <line number="154" hits="0" branch="False" />
+            <line number="155" hits="0" branch="False" />
+            <line number="157" hits="0" branch="False" />
+            <line number="158" hits="0" branch="False" />
+            <line number="159" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="497" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="160" hits="0" branch="False" />
+            <line number="161" hits="0" branch="False" />
+            <line number="162" hits="0" branch="False" />
+            <line number="164" hits="0" branch="False" />
+            <line number="165" hits="0" branch="False" />
+            <line number="166" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="559" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="167" hits="0" branch="False" />
+            <line number="168" hits="0" branch="False" />
+            <line number="169" hits="0" branch="False" />
+            <line number="171" hits="0" branch="False" />
+            <line number="172" hits="0" branch="False" />
+            <line number="173" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.Business.Engine/&lt;Run&gt;d__0" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI\Business\Engine.cs" line-rate="0" branch-rate="0" complexity="17">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="17">
+              <lines>
+                <line number="9" hits="0" branch="False" />
+                <line number="10" hits="0" branch="False" />
+                <line number="11" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="1029" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="17" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="25" hits="0" branch="True" condition-coverage="0% (0/15)">
+                  <conditions>
+                    <condition number="225" type="jump" coverage="0%" />
+                    <condition number="239" type="jump" coverage="0%" />
+                    <condition number="260" type="switch" coverage="0%" />
+                    <condition number="295" type="jump" coverage="0%" />
+                    <condition number="306" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="34" hits="0" branch="False" />
+                <line number="35" hits="0" branch="False" />
+                <line number="37" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+                <line number="40" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+                <line number="43" hits="0" branch="False" />
+                <line number="44" hits="0" branch="False" />
+                <line number="47" hits="0" branch="False" />
+                <line number="48" hits="0" branch="False" />
+                <line number="50" hits="0" branch="False" />
+                <line number="51" hits="0" branch="False" />
+                <line number="218" hits="0" branch="False" />
+                <line number="219" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="0" branch="False" />
+            <line number="10" hits="0" branch="False" />
+            <line number="11" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="1029" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="25" hits="0" branch="True" condition-coverage="0% (0/15)">
+              <conditions>
+                <condition number="225" type="jump" coverage="0%" />
+                <condition number="239" type="jump" coverage="0%" />
+                <condition number="260" type="switch" coverage="0%" />
+                <condition number="295" type="jump" coverage="0%" />
+                <condition number="306" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="34" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="37" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+            <line number="43" hits="0" branch="False" />
+            <line number="44" hits="0" branch="False" />
+            <line number="47" hits="0" branch="False" />
+            <line number="48" hits="0" branch="False" />
+            <line number="50" hits="0" branch="False" />
+            <line number="51" hits="0" branch="False" />
+            <line number="218" hits="0" branch="False" />
+            <line number="219" hits="0" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="ContactsConsoleAPI.IntegrationTests.NUnit" line-rate="0.9954000000000001" branch-rate="0.75" complexity="39">
+      <classes>
+        <class name="AutoGeneratedProgram" filename=".nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="7">
+          <methods>
+            <method name="SetUp" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="15" branch="False" />
+                <line number="24" hits="15" branch="False" />
+                <line number="25" hits="15" branch="False" />
+                <line number="26" hits="15" branch="False" />
+              </lines>
+            </method>
+            <method name="TearDown" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="31" hits="15" branch="False" />
+                <line number="32" hits="15" branch="False" />
+                <line number="33" hits="15" branch="False" />
+                <line number="34" hits="15" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;DeleteContactAsync_TryToDeleteWithNullOrWhiteSpaceULID_ShouldThrowException&gt;b__7_0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="124" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;GetAllAsync_WhenNoContactsExist_ShouldThrowKeyNotFoundException&gt;b__9_0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="163" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;SearchByFirstNameAsync_WithNonExistingFirstName_ShouldThrowKeyNotFoundException&gt;b__11_0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="202" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;SearchByLastNameAsync_WithNonExistingLastName_ShouldThrowKeyNotFoundException&gt;b__13_0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="237" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;SearchByLastNameAsync_WithEmpty_ShouldThrowKeyNotFoundException&gt;b__14_0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="246" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="23" hits="15" branch="False" />
+            <line number="24" hits="15" branch="False" />
+            <line number="25" hits="15" branch="False" />
+            <line number="26" hits="15" branch="False" />
+            <line number="31" hits="15" branch="False" />
+            <line number="32" hits="15" branch="False" />
+            <line number="33" hits="15" branch="False" />
+            <line number="34" hits="15" branch="False" />
+            <line number="124" hits="2" branch="False" />
+            <line number="163" hits="2" branch="False" />
+            <line number="202" hits="2" branch="False" />
+            <line number="237" hits="2" branch="False" />
+            <line number="246" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;&gt;c__DisplayClass10_0" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="&lt;SearchByFirstNameAsync_WithExistingFirstName_ShouldReturnMatchingContacts&gt;b__0" signature="(ContactsConsoleAPI.Data.Models.Contact)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="191" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;SearchByFirstNameAsync_WithExistingFirstName_ShouldReturnMatchingContacts&gt;b__1" signature="(ContactsConsoleAPI.Data.Models.Contact)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="192" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;SearchByFirstNameAsync_WithExistingFirstName_ShouldReturnMatchingContacts&gt;b__2" signature="(ContactsConsoleAPI.Data.Models.Contact)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="193" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="191" hits="2" branch="False" />
+            <line number="192" hits="2" branch="False" />
+            <line number="193" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;&gt;c__DisplayClass12_0" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="&lt;SearchByLastNameAsync_WithExistingLastName_ShouldReturnMatchingContacts&gt;b__0" signature="(ContactsConsoleAPI.Data.Models.Contact)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="228" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;SearchByLastNameAsync_WithExistingLastName_ShouldReturnMatchingContacts&gt;b__1" signature="(ContactsConsoleAPI.Data.Models.Contact)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="229" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;SearchByLastNameAsync_WithExistingLastName_ShouldReturnMatchingContacts&gt;b__2" signature="(ContactsConsoleAPI.Data.Models.Contact)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="230" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="228" hits="2" branch="False" />
+            <line number="229" hits="2" branch="False" />
+            <line number="230" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;&gt;c__DisplayClass16_0" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;GetSpecificAsync_WithInvalidULID_ShouldThrowKeyNotFoundException&gt;b__0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="284" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="284" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;&gt;c__DisplayClass18_0" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;UpdateAsync_WithInvalidContact_ShouldThrowValidationException&gt;b__0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="355" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="355" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;&gt;c__DisplayClass5_0/&lt;&lt;AddContactAsync_TryToAddContactWithInvalidCredentials_ShouldThrowException&gt;b__0&gt;d" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="80" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="80" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;&gt;c__DisplayClass8_0" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="&lt;GetAllAsync_WhenContactsExist_ShouldReturnAllContacts&gt;b__0" signature="(ContactsConsoleAPI.Data.Models.Contact)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="152" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;GetAllAsync_WhenContactsExist_ShouldReturnAllContacts&gt;b__1" signature="(ContactsConsoleAPI.Data.Models.Contact)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="153" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="&lt;GetAllAsync_WhenContactsExist_ShouldReturnAllContacts&gt;b__2" signature="(ContactsConsoleAPI.Data.Models.Contact)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="154" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="152" hits="2" branch="False" />
+            <line number="153" hits="2" branch="False" />
+            <line number="154" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;AddContactAsync_ShouldAddNewContact&gt;d__4" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="40" hits="1" branch="False" />
+                <line number="41" hits="1" branch="False" />
+                <line number="42" hits="1" branch="False" />
+                <line number="43" hits="1" branch="False" />
+                <line number="44" hits="1" branch="False" />
+                <line number="45" hits="1" branch="False" />
+                <line number="46" hits="1" branch="False" />
+                <line number="47" hits="1" branch="False" />
+                <line number="48" hits="1" branch="False" />
+                <line number="49" hits="1" branch="False" />
+                <line number="50" hits="1" branch="False" />
+                <line number="52" hits="1" branch="False" />
+                <line number="54" hits="1" branch="False" />
+                <line number="56" hits="1" branch="False" />
+                <line number="57" hits="1" branch="False" />
+                <line number="58" hits="1" branch="False" />
+                <line number="59" hits="1" branch="False" />
+                <line number="60" hits="1" branch="False" />
+                <line number="61" hits="1" branch="False" />
+                <line number="62" hits="1" branch="False" />
+                <line number="63" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="40" hits="1" branch="False" />
+            <line number="41" hits="1" branch="False" />
+            <line number="42" hits="1" branch="False" />
+            <line number="43" hits="1" branch="False" />
+            <line number="44" hits="1" branch="False" />
+            <line number="45" hits="1" branch="False" />
+            <line number="46" hits="1" branch="False" />
+            <line number="47" hits="1" branch="False" />
+            <line number="48" hits="1" branch="False" />
+            <line number="49" hits="1" branch="False" />
+            <line number="50" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
+            <line number="54" hits="1" branch="False" />
+            <line number="56" hits="1" branch="False" />
+            <line number="57" hits="1" branch="False" />
+            <line number="58" hits="1" branch="False" />
+            <line number="59" hits="1" branch="False" />
+            <line number="60" hits="1" branch="False" />
+            <line number="61" hits="1" branch="False" />
+            <line number="62" hits="1" branch="False" />
+            <line number="63" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;AddContactAsync_TryToAddContactWithInvalidCredentials_ShouldThrowException&gt;d__5" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="0.5" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="68" hits="1" branch="False" />
+                <line number="69" hits="1" branch="False" />
+                <line number="70" hits="1" branch="False" />
+                <line number="71" hits="1" branch="False" />
+                <line number="72" hits="1" branch="False" />
+                <line number="73" hits="1" branch="False" />
+                <line number="74" hits="1" branch="False" />
+                <line number="75" hits="1" branch="False" />
+                <line number="76" hits="1" branch="False" />
+                <line number="77" hits="1" branch="False" />
+                <line number="78" hits="1" branch="False" />
+                <line number="81" hits="1" branch="False" />
+                <line number="83" hits="1" branch="False" />
+                <line number="84" hits="1" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="456" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="86" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="68" hits="1" branch="False" />
+            <line number="69" hits="1" branch="False" />
+            <line number="70" hits="1" branch="False" />
+            <line number="71" hits="1" branch="False" />
+            <line number="72" hits="1" branch="False" />
+            <line number="73" hits="1" branch="False" />
+            <line number="74" hits="1" branch="False" />
+            <line number="75" hits="1" branch="False" />
+            <line number="76" hits="1" branch="False" />
+            <line number="77" hits="1" branch="False" />
+            <line number="78" hits="1" branch="False" />
+            <line number="81" hits="1" branch="False" />
+            <line number="83" hits="1" branch="False" />
+            <line number="84" hits="1" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="456" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="86" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;DeleteContactAsync_TryToDeleteWithNullOrWhiteSpaceULID_ShouldThrowException&gt;d__7" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="121" hits="1" branch="False" />
+                <line number="127" hits="1" branch="False" />
+                <line number="129" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="121" hits="1" branch="False" />
+            <line number="127" hits="1" branch="False" />
+            <line number="129" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;DeleteContactAsync_WithValidULID_ShouldRemoveContactFromDb&gt;d__6" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="90" hits="1" branch="False" />
+                <line number="92" hits="1" branch="False" />
+                <line number="93" hits="1" branch="False" />
+                <line number="94" hits="1" branch="False" />
+                <line number="95" hits="1" branch="False" />
+                <line number="96" hits="1" branch="False" />
+                <line number="97" hits="1" branch="False" />
+                <line number="98" hits="1" branch="False" />
+                <line number="99" hits="1" branch="False" />
+                <line number="100" hits="1" branch="False" />
+                <line number="101" hits="1" branch="False" />
+                <line number="105" hits="1" branch="False" />
+                <line number="107" hits="1" branch="False" />
+                <line number="111" hits="1" branch="False" />
+                <line number="113" hits="1" branch="False" />
+                <line number="116" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="90" hits="1" branch="False" />
+            <line number="92" hits="1" branch="False" />
+            <line number="93" hits="1" branch="False" />
+            <line number="94" hits="1" branch="False" />
+            <line number="95" hits="1" branch="False" />
+            <line number="96" hits="1" branch="False" />
+            <line number="97" hits="1" branch="False" />
+            <line number="98" hits="1" branch="False" />
+            <line number="99" hits="1" branch="False" />
+            <line number="100" hits="1" branch="False" />
+            <line number="101" hits="1" branch="False" />
+            <line number="105" hits="1" branch="False" />
+            <line number="107" hits="1" branch="False" />
+            <line number="111" hits="1" branch="False" />
+            <line number="113" hits="1" branch="False" />
+            <line number="116" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;GetAllAsync_WhenContactsExist_ShouldReturnAllContacts&gt;d__8" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="133" hits="1" branch="False" />
+                <line number="135" hits="1" branch="False" />
+                <line number="136" hits="1" branch="False" />
+                <line number="137" hits="1" branch="False" />
+                <line number="138" hits="1" branch="False" />
+                <line number="139" hits="1" branch="False" />
+                <line number="140" hits="1" branch="False" />
+                <line number="141" hits="1" branch="False" />
+                <line number="142" hits="1" branch="False" />
+                <line number="143" hits="1" branch="False" />
+                <line number="144" hits="1" branch="False" />
+                <line number="146" hits="1" branch="False" />
+                <line number="149" hits="1" branch="False" />
+                <line number="151" hits="1" branch="False" />
+                <line number="156" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="133" hits="1" branch="False" />
+            <line number="135" hits="1" branch="False" />
+            <line number="136" hits="1" branch="False" />
+            <line number="137" hits="1" branch="False" />
+            <line number="138" hits="1" branch="False" />
+            <line number="139" hits="1" branch="False" />
+            <line number="140" hits="1" branch="False" />
+            <line number="141" hits="1" branch="False" />
+            <line number="142" hits="1" branch="False" />
+            <line number="143" hits="1" branch="False" />
+            <line number="144" hits="1" branch="False" />
+            <line number="146" hits="1" branch="False" />
+            <line number="149" hits="1" branch="False" />
+            <line number="151" hits="1" branch="False" />
+            <line number="156" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;GetAllAsync_WhenNoContactsExist_ShouldThrowKeyNotFoundException&gt;d__9" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="160" hits="1" branch="False" />
+                <line number="165" hits="1" branch="False" />
+                <line number="169" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="160" hits="1" branch="False" />
+            <line number="165" hits="1" branch="False" />
+            <line number="169" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;GetSpecificAsync_WithInvalidULID_ShouldThrowKeyNotFoundException&gt;d__16" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="280" hits="1" branch="False" />
+                <line number="282" hits="1" branch="False" />
+                <line number="287" hits="1" branch="False" />
+                <line number="288" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="280" hits="1" branch="False" />
+            <line number="282" hits="1" branch="False" />
+            <line number="287" hits="1" branch="False" />
+            <line number="288" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;GetSpecificAsync_WithValidULID_ShouldReturnContact&gt;d__15" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="254" hits="1" branch="False" />
+                <line number="257" hits="1" branch="False" />
+                <line number="258" hits="1" branch="False" />
+                <line number="259" hits="1" branch="False" />
+                <line number="260" hits="1" branch="False" />
+                <line number="261" hits="1" branch="False" />
+                <line number="262" hits="1" branch="False" />
+                <line number="263" hits="1" branch="False" />
+                <line number="264" hits="1" branch="False" />
+                <line number="265" hits="1" branch="False" />
+                <line number="266" hits="1" branch="False" />
+                <line number="267" hits="1" branch="False" />
+                <line number="269" hits="1" branch="False" />
+                <line number="272" hits="1" branch="False" />
+                <line number="273" hits="1" branch="False" />
+                <line number="276" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="254" hits="1" branch="False" />
+            <line number="257" hits="1" branch="False" />
+            <line number="258" hits="1" branch="False" />
+            <line number="259" hits="1" branch="False" />
+            <line number="260" hits="1" branch="False" />
+            <line number="261" hits="1" branch="False" />
+            <line number="262" hits="1" branch="False" />
+            <line number="263" hits="1" branch="False" />
+            <line number="264" hits="1" branch="False" />
+            <line number="265" hits="1" branch="False" />
+            <line number="266" hits="1" branch="False" />
+            <line number="267" hits="1" branch="False" />
+            <line number="269" hits="1" branch="False" />
+            <line number="272" hits="1" branch="False" />
+            <line number="273" hits="1" branch="False" />
+            <line number="276" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;SearchByFirstNameAsync_WithExistingFirstName_ShouldReturnMatchingContacts&gt;d__10" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="173" hits="1" branch="False" />
+                <line number="175" hits="1" branch="False" />
+                <line number="176" hits="1" branch="False" />
+                <line number="177" hits="1" branch="False" />
+                <line number="178" hits="1" branch="False" />
+                <line number="179" hits="1" branch="False" />
+                <line number="180" hits="1" branch="False" />
+                <line number="181" hits="1" branch="False" />
+                <line number="182" hits="1" branch="False" />
+                <line number="183" hits="1" branch="False" />
+                <line number="184" hits="1" branch="False" />
+                <line number="185" hits="1" branch="False" />
+                <line number="187" hits="1" branch="False" />
+                <line number="190" hits="1" branch="False" />
+                <line number="194" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="173" hits="1" branch="False" />
+            <line number="175" hits="1" branch="False" />
+            <line number="176" hits="1" branch="False" />
+            <line number="177" hits="1" branch="False" />
+            <line number="178" hits="1" branch="False" />
+            <line number="179" hits="1" branch="False" />
+            <line number="180" hits="1" branch="False" />
+            <line number="181" hits="1" branch="False" />
+            <line number="182" hits="1" branch="False" />
+            <line number="183" hits="1" branch="False" />
+            <line number="184" hits="1" branch="False" />
+            <line number="185" hits="1" branch="False" />
+            <line number="187" hits="1" branch="False" />
+            <line number="190" hits="1" branch="False" />
+            <line number="194" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;SearchByFirstNameAsync_WithNonExistingFirstName_ShouldThrowKeyNotFoundException&gt;d__11" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="198" hits="1" branch="False" />
+                <line number="205" hits="1" branch="False" />
+                <line number="206" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="198" hits="1" branch="False" />
+            <line number="205" hits="1" branch="False" />
+            <line number="206" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;SearchByLastNameAsync_WithEmpty_ShouldThrowKeyNotFoundException&gt;d__14" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="244" hits="1" branch="False" />
+                <line number="249" hits="1" branch="False" />
+                <line number="250" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="244" hits="1" branch="False" />
+            <line number="249" hits="1" branch="False" />
+            <line number="250" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;SearchByLastNameAsync_WithExistingLastName_ShouldReturnMatchingContacts&gt;d__12" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="210" hits="1" branch="False" />
+                <line number="212" hits="1" branch="False" />
+                <line number="213" hits="1" branch="False" />
+                <line number="214" hits="1" branch="False" />
+                <line number="215" hits="1" branch="False" />
+                <line number="216" hits="1" branch="False" />
+                <line number="217" hits="1" branch="False" />
+                <line number="218" hits="1" branch="False" />
+                <line number="219" hits="1" branch="False" />
+                <line number="220" hits="1" branch="False" />
+                <line number="221" hits="1" branch="False" />
+                <line number="222" hits="1" branch="False" />
+                <line number="224" hits="1" branch="False" />
+                <line number="227" hits="1" branch="False" />
+                <line number="231" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="210" hits="1" branch="False" />
+            <line number="212" hits="1" branch="False" />
+            <line number="213" hits="1" branch="False" />
+            <line number="214" hits="1" branch="False" />
+            <line number="215" hits="1" branch="False" />
+            <line number="216" hits="1" branch="False" />
+            <line number="217" hits="1" branch="False" />
+            <line number="218" hits="1" branch="False" />
+            <line number="219" hits="1" branch="False" />
+            <line number="220" hits="1" branch="False" />
+            <line number="221" hits="1" branch="False" />
+            <line number="222" hits="1" branch="False" />
+            <line number="224" hits="1" branch="False" />
+            <line number="227" hits="1" branch="False" />
+            <line number="231" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;SearchByLastNameAsync_WithNonExistingLastName_ShouldThrowKeyNotFoundException&gt;d__13" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="235" hits="1" branch="False" />
+                <line number="240" hits="1" branch="False" />
+                <line number="241" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="235" hits="1" branch="False" />
+            <line number="240" hits="1" branch="False" />
+            <line number="241" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;UpdateAsync_WithInvalidContact_ShouldThrowValidationException&gt;d__18" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="332" hits="1" branch="False" />
+                <line number="333" hits="1" branch="False" />
+                <line number="334" hits="1" branch="False" />
+                <line number="335" hits="1" branch="False" />
+                <line number="336" hits="1" branch="False" />
+                <line number="337" hits="1" branch="False" />
+                <line number="338" hits="1" branch="False" />
+                <line number="339" hits="1" branch="False" />
+                <line number="340" hits="1" branch="False" />
+                <line number="341" hits="1" branch="False" />
+                <line number="342" hits="1" branch="False" />
+                <line number="343" hits="1" branch="False" />
+                <line number="345" hits="1" branch="False" />
+                <line number="347" hits="1" branch="False" />
+                <line number="348" hits="1" branch="False" />
+                <line number="349" hits="1" branch="False" />
+                <line number="350" hits="1" branch="False" />
+                <line number="351" hits="1" branch="False" />
+                <line number="358" hits="1" branch="False" />
+                <line number="359" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="332" hits="1" branch="False" />
+            <line number="333" hits="1" branch="False" />
+            <line number="334" hits="1" branch="False" />
+            <line number="335" hits="1" branch="False" />
+            <line number="336" hits="1" branch="False" />
+            <line number="337" hits="1" branch="False" />
+            <line number="338" hits="1" branch="False" />
+            <line number="339" hits="1" branch="False" />
+            <line number="340" hits="1" branch="False" />
+            <line number="341" hits="1" branch="False" />
+            <line number="342" hits="1" branch="False" />
+            <line number="343" hits="1" branch="False" />
+            <line number="345" hits="1" branch="False" />
+            <line number="347" hits="1" branch="False" />
+            <line number="348" hits="1" branch="False" />
+            <line number="349" hits="1" branch="False" />
+            <line number="350" hits="1" branch="False" />
+            <line number="351" hits="1" branch="False" />
+            <line number="358" hits="1" branch="False" />
+            <line number="359" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.IntegrationTests/&lt;UpdateAsync_WithValidContact_ShouldUpdateContact&gt;d__17" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\IntegrationTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="292" hits="1" branch="False" />
+                <line number="294" hits="1" branch="False" />
+                <line number="295" hits="1" branch="False" />
+                <line number="296" hits="1" branch="False" />
+                <line number="297" hits="1" branch="False" />
+                <line number="298" hits="1" branch="False" />
+                <line number="299" hits="1" branch="False" />
+                <line number="300" hits="1" branch="False" />
+                <line number="301" hits="1" branch="False" />
+                <line number="302" hits="1" branch="False" />
+                <line number="303" hits="1" branch="False" />
+                <line number="304" hits="1" branch="False" />
+                <line number="305" hits="1" branch="False" />
+                <line number="306" hits="1" branch="False" />
+                <line number="307" hits="1" branch="False" />
+                <line number="308" hits="1" branch="False" />
+                <line number="309" hits="1" branch="False" />
+                <line number="310" hits="1" branch="False" />
+                <line number="311" hits="1" branch="False" />
+                <line number="312" hits="1" branch="False" />
+                <line number="313" hits="1" branch="False" />
+                <line number="314" hits="1" branch="False" />
+                <line number="315" hits="1" branch="False" />
+                <line number="316" hits="1" branch="False" />
+                <line number="319" hits="1" branch="False" />
+                <line number="320" hits="1" branch="False" />
+                <line number="321" hits="1" branch="False" />
+                <line number="324" hits="1" branch="False" />
+                <line number="325" hits="1" branch="False" />
+                <line number="326" hits="1" branch="False" />
+                <line number="328" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="292" hits="1" branch="False" />
+            <line number="294" hits="1" branch="False" />
+            <line number="295" hits="1" branch="False" />
+            <line number="296" hits="1" branch="False" />
+            <line number="297" hits="1" branch="False" />
+            <line number="298" hits="1" branch="False" />
+            <line number="299" hits="1" branch="False" />
+            <line number="300" hits="1" branch="False" />
+            <line number="301" hits="1" branch="False" />
+            <line number="302" hits="1" branch="False" />
+            <line number="303" hits="1" branch="False" />
+            <line number="304" hits="1" branch="False" />
+            <line number="305" hits="1" branch="False" />
+            <line number="306" hits="1" branch="False" />
+            <line number="307" hits="1" branch="False" />
+            <line number="308" hits="1" branch="False" />
+            <line number="309" hits="1" branch="False" />
+            <line number="310" hits="1" branch="False" />
+            <line number="311" hits="1" branch="False" />
+            <line number="312" hits="1" branch="False" />
+            <line number="313" hits="1" branch="False" />
+            <line number="314" hits="1" branch="False" />
+            <line number="315" hits="1" branch="False" />
+            <line number="316" hits="1" branch="False" />
+            <line number="319" hits="1" branch="False" />
+            <line number="320" hits="1" branch="False" />
+            <line number="321" hits="1" branch="False" />
+            <line number="324" hits="1" branch="False" />
+            <line number="325" hits="1" branch="False" />
+            <line number="326" hits="1" branch="False" />
+            <line number="328" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ContactsConsoleAPI.IntegrationTests.NUnit.TestContactDbContext" filename="Desktop\PREPARE EXAM Back-End\ContactsConsoleAPI\ContactsConsoleAPI.IntegrationTests.NUnit\TestContactDbContext.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="OnConfiguring" signature="(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="15" hits="15" branch="False" />
+                <line number="16" hits="15" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="12" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="17" hits="15" branch="False" />
+                <line number="18" hits="15" branch="False" />
+                <line number="19" hits="15" branch="False" />
+                <line number="20" hits="15" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="15" branch="False" />
+                <line number="11" hits="15" branch="False" />
+                <line number="12" hits="15" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="15" branch="False" />
+            <line number="16" hits="15" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="12" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="17" hits="15" branch="False" />
+            <line number="18" hits="15" branch="False" />
+            <line number="19" hits="15" branch="False" />
+            <line number="20" hits="15" branch="False" />
+            <line number="10" hits="15" branch="False" />
+            <line number="11" hits="15" branch="False" />
+            <line number="12" hits="15" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
