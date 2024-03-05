@@ -1,0 +1,11 @@
+C:\Users\Atanas Work\Downloads\Exam-Preparation-1-Resources\Resources\02-Dictionary-Insertion-Resources\02-Dictionary-Insertion-Resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\Atanas Work\Downloads\Exam-Preparation-1-Resources\Resources\02-Dictionary-Insertion-Resources\02-Dictionary-Insertion-Resources\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\Atanas Work\Downloads\Exam-Preparation-1-Resources\Resources\02-Dictionary-Insertion-Resources\02-Dictionary-Insertion-Resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\Atanas Work\Downloads\Exam-Preparation-1-Resources\Resources\02-Dictionary-Insertion-Resources\02-Dictionary-Insertion-Resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atanas Work\Downloads\Exam-Preparation-1-Resources\Resources\02-Dictionary-Insertion-Resources\02-Dictionary-Insertion-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\Atanas Work\Downloads\Exam-Preparation-1-Resources\Resources\02-Dictionary-Insertion-Resources\02-Dictionary-Insertion-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\Atanas Work\Downloads\Exam-Preparation-1-Resources\Resources\02-Dictionary-Insertion-Resources\02-Dictionary-Insertion-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Atanas Work\Downloads\Exam-Preparation-1-Resources\Resources\02-Dictionary-Insertion-Resources\02-Dictionary-Insertion-Resources\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\Atanas Work\Downloads\Exam-Preparation-1-Resources\Resources\02-Dictionary-Insertion-Resources\02-Dictionary-Insertion-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\Atanas Work\Downloads\Exam-Preparation-1-Resources\Resources\02-Dictionary-Insertion-Resources\02-Dictionary-Insertion-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\Atanas Work\Downloads\Exam-Preparation-1-Resources\Resources\02-Dictionary-Insertion-Resources\02-Dictionary-Insertion-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll
